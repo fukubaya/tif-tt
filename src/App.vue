@@ -7,13 +7,13 @@
       v-show="showInfo"
       show-icon></el-alert>
     <el-tabs type="card">
-      <el-tab-pane label="8/3(金)">
+      <el-tab-pane label="8/2(金)">
         <Timetable :width="windowWidth" name="day1" :schedules="day1"></Timetable>
       </el-tab-pane>
-      <el-tab-pane label="8/4(土)">
+      <el-tab-pane label="8/3(土)">
         <Timetable :width="windowWidth" name="day2" :schedules="day2"></Timetable>
       </el-tab-pane>
-      <el-tab-pane label="8/5(日)">
+      <el-tab-pane label="8/4(日)">
         <Timetable :width="windowWidth" name="day3" :schedules="day3"></Timetable>
       </el-tab-pane>
     </el-tabs>
@@ -27,7 +27,7 @@ import {Tabs, TabPane, Alert} from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import locale from 'element-ui/lib/locale/lang/ja'
 import Storage from '@/js/mystorage.js'
-const storage = new Storage(localStorage, 'tif2018');
+const storage = new Storage(localStorage, 'tif2019');
 
 
 Vue.prototype.$ELEMENT = {size: 'small'};

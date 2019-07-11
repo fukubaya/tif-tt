@@ -4,97 +4,109 @@
             {
                 "start": "1000",
                 "end": "1035",
-                "artist": "スペシャルファンミーティングステージ (Tシャツ購入者限定ステージ)",
-                "detail": "STU48<br>シュークリームロケッツ<br>Task have Fun"
+                "artist": "スペシャルファンミーティングステージ (Tシャツ購入者限定ステージ)　Day1",
+                "detail": "=LOVE／NMB48／マジカル・パンチライン<br>■ブルー■"
             },
             {
-                "start": "1050",
-                "end": "1120",
+                "start": "1045",
+                "end": "1115",
+                "artist": "アイドルカレッジ",
+                "detail": "null"
+            },
+            {
+                "start": "1120",
+                "end": "1150",
+                "artist": "アキシブproject",
+                "detail": "null"
+            },
+            {
+                "start": "1155",
+                "end": "1225",
+                "artist": "バンドじゃないもん！MAXX NAKAYOSHI",
+                "detail": "null"
+            },
+            {
+                "start": "1230",
+                "end": "1300",
+                "artist": "原駅ステージA",
+                "detail": "null"
+            },
+            {
+                "start": "1305",
+                "end": "1335",
                 "artist": "つばきファクトリー",
                 "detail": "null"
             },
             {
-                "start": "1125",
-                "end": "1155",
-                "artist": "predia",
+                "start": "1340",
+                "end": "1410",
+                "artist": "桜エビ〜ず",
                 "detail": "null"
             },
             {
-                "start": "1200",
-                "end": "1230",
-                "artist": "＝LOVE",
+                "start": "1420",
+                "end": "1450",
+                "artist": "あゆみくりかまき",
                 "detail": "null"
             },
             {
-                "start": "1235",
-                "end": "1305",
-                "artist": "i☆Ris",
+                "start": "1455",
+                "end": "1525",
+                "artist": "lyrical school",
                 "detail": "null"
             },
             {
-                "start": "1310",
-                "end": "1340",
-                "artist": "チームしゃちほこ",
+                "start": "1530",
+                "end": "1600",
+                "artist": "sora tob sakana",
                 "detail": "null"
-            },
-            {
-                "start": "1345",
-                "end": "1415",
-                "artist": "Cattivo!",
-                "detail": "岡井千聖<br>浜浦彩乃（こぶしファクトリー）<br>浅倉樹々（つばきファクトリー）"
-            },
-            {
-                "start": "1515",
-                "end": "1555",
-                "artist": "公開収録「この指と～まれ！season2 in TIF2018」",
-                "detail": "チェアマン：指原莉乃<br>サポーター：土田晃之<br><br>ゲスト：=LOVE<br>こぶしファクトリー<br>フィロソフィーのダンス"
             },
             {
                 "start": "1610",
                 "end": "1640",
-                "artist": "AKB48 TIF2018選抜",
+                "artist": "眉村ちあき",
                 "detail": "null"
             },
             {
-                "start": "1650",
-                "end": "1720",
-                "artist": "風男塾",
+                "start": "1645",
+                "end": "1715",
+                "artist": "HKT48",
                 "detail": "null"
             },
             {
-                "start": "1730",
-                "end": "1800",
-                "artist": "バンドじゃないもん！",
+                "start": "1720",
+                "end": "1750",
+                "artist": "大阪☆春夏秋冬",
                 "detail": "null"
             },
             {
-                "start": "1810",
-                "end": "1840",
-                "artist": "STU48",
+                "start": "1800",
+                "end": "1830",
+                "artist": "AKB48 Team 8",
                 "detail": "null"
             },
             {
-                "start": "1845",
-                "end": "1915",
-                "artist": "SUPER☆GiRLS",
+                "start": "1835",
+                "end": "1905",
+                "artist": "i☆Ris",
                 "detail": "null"
             },
             {
-                "start": "1920",
-                "end": "1950",
-                "artist": "こぶしファクトリー",
+                "start": "1910",
+                "end": "1940",
+                "artist": "＝LOVE",
                 "detail": "null"
             },
             {
-                "start": "1955",
-                "end": "2025",
+                "start": "1945",
+                "end": "2015",
                 "artist": "夢みるアドレセンス",
                 "detail": "null"
             },
             {
-                "start": "2030",
-                "end": "2100",
-                "artist": "けやき坂46",
+                "start": "2020",
+                "end": "2050",
+                "artist": "アンジュルム",
                 "detail": "null"
             }
         ],
@@ -102,643 +114,667 @@
             {
                 "start": "1000",
                 "end": "1015",
-                "artist": "さきどり発進局",
+                "artist": "アップアップガールズ（仮）",
                 "detail": "null"
             },
             {
                 "start": "1015",
                 "end": "1030",
-                "artist": "KAMOがネギをしょってくるッ!!!",
+                "artist": "Pimm’s",
                 "detail": "null"
             },
             {
                 "start": "1030",
                 "end": "1045",
-                "artist": "Parfait",
+                "artist": "143∽",
                 "detail": "null"
             },
             {
                 "start": "1045",
                 "end": "1100",
-                "artist": "ゑんら",
+                "artist": "WILL-O'",
                 "detail": "null"
             },
             {
                 "start": "1105",
                 "end": "1120",
-                "artist": "Task have Fun",
+                "artist": "DEAR KISS",
                 "detail": "null"
             },
             {
                 "start": "1120",
                 "end": "1135",
-                "artist": "Chu☆Oh!Dolly",
+                "artist": "ZOC",
                 "detail": "null"
             },
             {
                 "start": "1135",
                 "end": "1150",
-                "artist": "Lovelys",
+                "artist": "amiinA",
                 "detail": "null"
             },
             {
-                "start": "1150",
-                "end": "1205",
-                "artist": "Love Cocchi",
+                "start": "1200",
+                "end": "1215",
+                "artist": "DREAMING MONSTER",
                 "detail": "null"
             },
             {
                 "start": "1215",
                 "end": "1230",
-                "artist": "Maison book girl",
+                "artist": "Road to TIF 1位",
                 "detail": "null"
             },
             {
                 "start": "1230",
                 "end": "1245",
-                "artist": "・・・・・・・・・",
+                "artist": "ゆるめるモ！ ",
                 "detail": "null"
             },
             {
                 "start": "1245",
                 "end": "1300",
-                "artist": "amiinA",
+                "artist": "全力少女R",
                 "detail": "null"
             },
             {
                 "start": "1305",
                 "end": "1320",
-                "artist": "フィロソフィーのダンス",
+                "artist": "ヲルタナティヴ",
                 "detail": "null"
             },
             {
                 "start": "1320",
                 "end": "1335",
-                "artist": "『インキーウップス』",
+                "artist": "BLACKNAZARENE",
                 "detail": "null"
             },
             {
                 "start": "1335",
                 "end": "1350",
-                "artist": "終演後物販卍",
+                "artist": "めろん畑a go go",
                 "detail": "null"
             },
             {
-                "start": "1400",
-                "end": "1415",
-                "artist": "あゆみくりかまき",
+                "start": "1350",
+                "end": "1405",
+                "artist": "MIGMA SHELTER",
                 "detail": "null"
             },
             {
                 "start": "1415",
                 "end": "1430",
-                "artist": "PiiiiiiiN",
+                "artist": "raymay",
                 "detail": "null"
             },
             {
                 "start": "1430",
                 "end": "1445",
-                "artist": "Yamakatsu",
+                "artist": "BILLIE IDLE®",
                 "detail": "null"
             },
             {
                 "start": "1445",
                 "end": "1500",
-                "artist": "天晴れ！原宿",
+                "artist": "神使轟く、激情の如く。 ",
                 "detail": "null"
             },
             {
                 "start": "1530",
                 "end": "1700",
-                "artist": "TIF2018メインステージ争奪LIVE 決勝戦",
-                "detail": "IVOLVE<br>ナナランド<br>なんキニ！<br>NEO JAPONISM<br><br>MC：榎並大二郎（フジテレビアナウンサー）"
+                "artist": "TIF2019メインステージ争奪LIVE 決勝戦",
+                "detail": "chuLa／真っ白なキャンバス／マリオネッ。／メイビーME<br>■ブルー■"
             },
             {
-                "start": "1800",
+                "start": "1830",
                 "end": "2100",
-                "artist": "TIFもハジける！スパークリングNIGHT!!",
-                "detail": "※18:00～開場<br><br>※18:30～開演"
+                "artist": "TIFもハジける！スパークリングNIGHT!!（R18）",
+                "detail": "■ブルー■"
             }
         ],
         "SKY STAGE": [
             {
                 "start": "1030",
                 "end": "1045",
-                "artist": "26時のマスカレイド",
+                "artist": "FES☆TIVE",
                 "detail": "null"
             },
             {
                 "start": "1045",
                 "end": "1100",
-                "artist": "全力少女R",
+                "artist": "Task have Fun",
                 "detail": "null"
             },
             {
                 "start": "1100",
                 "end": "1115",
-                "artist": "NEO JAPONISM",
+                "artist": "Fragrant Drive",
                 "detail": "null"
             },
             {
-                "start": "1115",
-                "end": "1130",
-                "artist": "アップアップガールズ（2）",
+                "start": "1120",
+                "end": "1135",
+                "artist": "真っ白なキャンバス",
                 "detail": "null"
             },
             {
-                "start": "1130",
-                "end": "1145",
-                "artist": "X21",
+                "start": "1135",
+                "end": "1150",
+                "artist": "Leo-Wonder",
                 "detail": "null"
             },
             {
-                "start": "1155",
-                "end": "1210",
-                "artist": "ハコイリ♡ムスメ",
+                "start": "1150",
+                "end": "1205",
+                "artist": "開歌-かいか- ",
                 "detail": "null"
             },
             {
-                "start": "1210",
-                "end": "1225",
-                "artist": "リーフシトロン",
+                "start": "1205",
+                "end": "1220",
+                "artist": "Someday Somewhere",
                 "detail": "null"
             },
             {
-                "start": "1225",
-                "end": "1240",
-                "artist": "CYNHN",
+                "start": "1220",
+                "end": "1235",
+                "artist": "LaLuce",
                 "detail": "null"
             },
             {
                 "start": "1240",
                 "end": "1255",
-                "artist": "寺嶋由芙",
+                "artist": "chuLa",
                 "detail": "null"
             },
             {
                 "start": "1255",
                 "end": "1310",
-                "artist": "sora tob sakana",
+                "artist": "虹のコンキスタドール",
                 "detail": "null"
             },
             {
-                "start": "1410",
-                "end": "1425",
-                "artist": "ゆるめるモ！ ",
+                "start": "1310",
+                "end": "1325",
+                "artist": "夢みるアドレセンス",
                 "detail": "null"
             },
             {
                 "start": "1425",
                 "end": "1440",
-                "artist": "Good Tears",
+                "artist": "神宿",
                 "detail": "null"
             },
             {
                 "start": "1440",
                 "end": "1455",
-                "artist": "つりビット",
+                "artist": "Lily of the valley",
                 "detail": "null"
             },
             {
                 "start": "1455",
                 "end": "1510",
-                "artist": "ベボガ！",
+                "artist": "QUEENS",
                 "detail": "null"
             },
             {
-                "start": "1515",
-                "end": "1530",
-                "artist": "lyrical school",
+                "start": "1510",
+                "end": "1525",
+                "artist": "放課後プリンセス",
                 "detail": "null"
             },
             {
                 "start": "1530",
                 "end": "1545",
-                "artist": "桜エビ〜ず",
+                "artist": "アップアップガールズ（2）",
                 "detail": "null"
             },
             {
                 "start": "1545",
                 "end": "1600",
-                "artist": "転校少女*",
+                "artist": "いぎなり東北産",
                 "detail": "null"
             },
             {
                 "start": "1600",
                 "end": "1615",
-                "artist": "シュークリームロケッツ",
-                "detail": "null"
-            },
-            {
-                "start": "1625",
-                "end": "1640",
                 "artist": "CROWN POP",
                 "detail": "null"
             },
             {
-                "start": "1640",
-                "end": "1655",
-                "artist": "アップアップガールズ（仮）",
-                "detail": "null"
-            },
-            {
-                "start": "1655",
-                "end": "1710",
-                "artist": "FES☆TIVE",
-                "detail": "null"
-            },
-            {
-                "start": "1710",
-                "end": "1725",
-                "artist": "吉川友",
-                "detail": "null"
-            },
-            {
-                "start": "1730",
-                "end": "1745",
-                "artist": "Run Girls, Run！",
-                "detail": "null"
-            },
-            {
-                "start": "1745",
-                "end": "1800",
-                "artist": "芹澤 優",
-                "detail": "null"
-            },
-            {
-                "start": "1800",
-                "end": "1815",
-                "artist": "愛乙女☆DOLL",
-                "detail": "null"
-            },
-            {
-                "start": "1815",
-                "end": "1830",
-                "artist": "大阪☆春夏秋冬",
-                "detail": "null"
-            },
-            {
-                "start": "1835",
-                "end": "1850",
-                "artist": "AIS‐All Idol Songs- ",
-                "detail": "null"
-            },
-            {
-                "start": "1850",
-                "end": "1905",
-                "artist": "原田珠々華",
-                "detail": "null"
-            },
-            {
-                "start": "1905",
-                "end": "1920",
-                "artist": "WHY@DOLL",
-                "detail": "null"
-            },
-            {
-                "start": "1920",
-                "end": "1935",
-                "artist": "callme",
-                "detail": "null"
-            },
-            {
-                "start": "1940",
-                "end": "1955",
-                "artist": "フィロソフィーのダンス",
-                "detail": "null"
-            },
-            {
-                "start": "1955",
-                "end": "2010",
-                "artist": "ヤなことそっとミュート",
-                "detail": "null"
-            },
-            {
-                "start": "2010",
-                "end": "2025",
-                "artist": "Maison book girl",
-                "detail": "null"
-            }
-        ],
-        "SMILE GARDEN": [
-            {
-                "start": "0920",
-                "end": "0935",
-                "artist": "ラジオ体操",
-                "detail": "null"
-            },
-            {
-                "start": "0935",
-                "end": "0945",
-                "artist": "オープニング",
-                "detail": "null"
-            },
-            {
-                "start": "0945",
-                "end": "1005",
-                "artist": "佐々木彩夏 （ももいろクローバーZ）",
-                "detail": "null"
-            },
-            {
-                "start": "1005",
-                "end": "1025",
-                "artist": "こぶしファクトリー",
-                "detail": "null"
-            },
-            {
-                "start": "1025",
-                "end": "1045",
-                "artist": "monogatari",
-                "detail": "null"
-            },
-            {
-                "start": "1055",
-                "end": "1115",
-                "artist": "バンドじゃないもん！",
-                "detail": "null"
-            },
-            {
-                "start": "1120",
-                "end": "1140",
-                "artist": "ガチンコ☆",
-                "detail": "null"
-            },
-            {
-                "start": "1140",
-                "end": "1200",
-                "artist": "ときめき♡宣伝部",
-                "detail": "null"
-            },
-            {
-                "start": "1200",
-                "end": "1220",
-                "artist": "ONEPIXCEL",
-                "detail": "null"
-            },
-            {
-                "start": "1225",
-                "end": "1245",
-                "artist": "アップアップガールズ（仮）",
-                "detail": "null"
-            },
-            {
-                "start": "1245",
-                "end": "1305",
-                "artist": "風男塾",
-                "detail": "null"
-            },
-            {
-                "start": "1305",
-                "end": "1325",
-                "artist": "STU48",
-                "detail": "null"
-            },
-            {
-                "start": "1335",
-                "end": "1355",
-                "artist": "26時のマスカレイド",
-                "detail": "null"
-            },
-            {
-                "start": "1355",
-                "end": "1425",
-                "artist": "IDOL SUMMER JAMBOREE U-16",
-                "detail": "※１出演者は下記に記載"
-            },
-            {
-                "start": "1425",
-                "end": "1445",
-                "artist": "3B junior",
-                "detail": "null"
-            },
-            {
-                "start": "1515",
-                "end": "1545",
-                "artist": "サマソニ×TIF",
-                "detail": "あっこゴリラ"
-            },
-            {
-                "start": "1600",
+                "start": "1615",
                 "end": "1630",
-                "artist": "PASSPO☆",
+                "artist": "純情のアフィリア",
                 "detail": "null"
             },
             {
                 "start": "1635",
                 "end": "1650",
-                "artist": "MEY",
+                "artist": "ピュアリーモンスター",
                 "detail": "null"
             },
             {
                 "start": "1650",
-                "end": "1710",
-                "artist": "神宿",
+                "end": "1705",
+                "artist": "マジカル・パンチライン",
                 "detail": "null"
             },
             {
-                "start": "1715",
-                "end": "1745",
-                "artist": "スペシャルコラボライブ",
-                "detail": "桜エビ〜ず×つりビット"
-            },
-            {
-                "start": "1750",
-                "end": "1810",
-                "artist": "わーすた",
+                "start": "1705",
+                "end": "1720",
+                "artist": "Jewel☆Ciel",
                 "detail": "null"
             },
             {
-                "start": "1810",
-                "end": "1820",
-                "artist": "クロスコラボ",
+                "start": "1720",
+                "end": "1735",
+                "artist": "はちみつロケット",
                 "detail": "null"
             },
             {
-                "start": "1820",
-                "end": "1840",
-                "artist": "つばきファクトリー",
+                "start": "1745",
+                "end": "1800",
+                "artist": "吉川友",
                 "detail": "null"
             },
             {
-                "start": "1845",
-                "end": "1900",
-                "artist": "桜エビ〜ず",
+                "start": "1800",
+                "end": "1815",
+                "artist": "鶯籠",
                 "detail": "null"
             },
             {
-                "start": "1900",
+                "start": "1815",
+                "end": "1830",
+                "artist": "tipToe. ",
+                "detail": "null"
+            },
+            {
+                "start": "1830",
+                "end": "1845",
+                "artist": "Fullfull Pocket",
+                "detail": "null"
+            },
+            {
+                "start": "1850",
+                "end": "1905",
+                "artist": "WHY@DOLL",
+                "detail": "null"
+            },
+            {
+                "start": "1905",
                 "end": "1920",
-                "artist": "9nine",
+                "artist": "さんみゅ〜",
                 "detail": "null"
             },
             {
                 "start": "1920",
-                "end": "1940",
-                "artist": "チームしゃちほこ",
+                "end": "1935",
+                "artist": "26時のマスカレイド",
                 "detail": "null"
             },
             {
-                "start": "1945",
-                "end": "2015",
-                "artist": "私立恵比寿中学",
+                "start": "1940",
+                "end": "1955",
+                "artist": "転校少女*",
                 "detail": "null"
+            },
+            {
+                "start": "1955",
+                "end": "2015",
+                "artist": "愛乙女☆DOLL",
+                "detail": "null"
+            },
+            {
+                "start": "2015",
+                "end": "2035",
+                "artist": "フィロソフィーのダンス",
+                "detail": "null"
+            }
+        ],
+        "SMILE GARDEN": [
+            {
+                "start": "0930",
+                "end": "0945",
+                "artist": "TIF10周年記念オープニングステージ",
+                "detail": "■ピンク■"
+            },
+            {
+                "start": "0945",
+                "end": "1005",
+                "artist": "佐々木彩夏 （ももいろクローバーZ）",
+                "detail": "■ピンク■"
+            },
+            {
+                "start": "1005",
+                "end": "1045",
+                "artist": "「1日限りの同窓会ING!!!」 アイドリング!!!",
+                "detail": "■ピンク■"
+            },
+            {
+                "start": "1050",
+                "end": "1110",
+                "artist": "HKT48",
+                "detail": "null"
+            },
+            {
+                "start": "1110",
+                "end": "1130",
+                "artist": "BEYOOOOONDS ",
+                "detail": "null"
+            },
+            {
+                "start": "1130",
+                "end": "1150",
+                "artist": "ふわふわ",
+                "detail": "null"
+            },
+            {
+                "start": "1155",
+                "end": "1210",
+                "artist": "R2K",
+                "detail": "null"
+            },
+            {
+                "start": "1210",
+                "end": "1235",
+                "artist": "スペシャルコラボステージ",
+                "detail": "アップアップガールズ（2）×マジカル・パンチライン<br>■ブルー■"
+            },
+            {
+                "start": "1245",
+                "end": "1305",
+                "artist": "わーすた",
+                "detail": "null"
+            },
+            {
+                "start": "1305",
+                "end": "1325",
+                "artist": "FES☆TIVE",
+                "detail": "null"
+            },
+            {
+                "start": "1325",
+                "end": "1345",
+                "artist": "アップアップガールズ（プロレス）",
+                "detail": "null"
+            },
+            {
+                "start": "1345",
+                "end": "1405",
+                "artist": "TIF2019×DDT",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1405",
+                "end": "1425",
+                "artist": "バンドじゃないもん！MAXX NAKAYOSHI",
+                "detail": "null"
+            },
+            {
+                "start": "1425",
+                "end": "1455",
+                "artist": "IDOL SUMMER JAMBOREE",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1505",
+                "end": "1525",
+                "artist": "ナナランド",
+                "detail": "null"
+            },
+            {
+                "start": "1525",
+                "end": "1545",
+                "artist": "ときめき♡宣伝部",
+                "detail": "null"
+            },
+            {
+                "start": "1545",
+                "end": "1605",
+                "artist": "神宿",
+                "detail": "null"
+            },
+            {
+                "start": "1610",
+                "end": "1640",
+                "artist": "NMB48",
+                "detail": "null"
+            },
+            {
+                "start": "1650",
+                "end": "1720",
+                "artist": "Hello! Project Special Stage Berryz工房大好きスッペシャル！ ～夏焼雅（PINK CRES.）＆ BEYOOOOONDS ＆ TIF選抜スペシャルコラボ～",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1730",
+                "end": "1750",
+                "artist": "スペシャルコラボステージTask have Fun×わーすた",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1750",
+                "end": "1810",
+                "artist": "uijin",
+                "detail": "null"
+            },
+            {
+                "start": "1810",
+                "end": "1830",
+                "artist": "ゆるめるモ！ ",
+                "detail": "null"
+            },
+            {
+                "start": "1835",
+                "end": "1855",
+                "artist": "predia",
+                "detail": "null"
+            },
+            {
+                "start": "1855",
+                "end": "1915",
+                "artist": "東京女子流",
+                "detail": "null"
+            },
+            {
+                "start": "1920",
+                "end": "1950",
+                "artist": "調整中",
+                "detail": "null"
+            },
+            {
+                "start": "1920",
+                "end": "1950",
+                "artist": "乃木坂46 4期生",
+                "detail": "調整中"
             }
         ],
         "FESTIVAL STAGE": [
             {
                 "start": "1000",
                 "end": "1015",
-                "artist": "劇場版ゴキゲン帝国",
+                "artist": "ナナランド",
                 "detail": "null"
             },
             {
                 "start": "1015",
                 "end": "1030",
-                "artist": "PiiiiiiiN",
+                "artist": "絶対直球女子！プレイボールズ ",
                 "detail": "null"
             },
             {
                 "start": "1030",
                 "end": "1045",
-                "artist": "IVOLVE",
+                "artist": "二丁目の魁カミングアウト",
                 "detail": "null"
             },
             {
                 "start": "1045",
                 "end": "1100",
-                "artist": "マジェスティックセブン",
+                "artist": "ハコイリ♡ムスメ",
                 "detail": "null"
             },
             {
                 "start": "1105",
                 "end": "1120",
-                "artist": "S★スパイシー",
+                "artist": "さんみゅ〜",
                 "detail": "null"
             },
             {
                 "start": "1120",
                 "end": "1135",
-                "artist": "会心ノ一撃",
+                "artist": "いちごみるく色に染まりたい。光 ",
                 "detail": "null"
             },
             {
                 "start": "1135",
                 "end": "1150",
-                "artist": "ROSARIO+CROSS",
+                "artist": "マリオネッ。",
                 "detail": "null"
             },
             {
                 "start": "1150",
                 "end": "1205",
-                "artist": "放課後プリンセス",
+                "artist": "神使轟く、激情の如く。 ",
                 "detail": "null"
             },
             {
                 "start": "1215",
                 "end": "1230",
-                "artist": "ナナランド",
+                "artist": "新しい学校のリーダーズ",
                 "detail": "null"
             },
             {
                 "start": "1230",
                 "end": "1245",
-                "artist": "LaLuce",
+                "artist": "フィロソフィーのダンス",
                 "detail": "null"
             },
             {
                 "start": "1245",
                 "end": "1300",
-                "artist": "全力少女R",
+                "artist": "Lovelys",
                 "detail": "null"
             },
             {
                 "start": "1300",
                 "end": "1315",
-                "artist": "Q-pitch",
+                "artist": "愛乙女☆DOLL",
                 "detail": "null"
             },
             {
                 "start": "1320",
                 "end": "1335",
-                "artist": "なんキニ！",
+                "artist": "メイビーME",
                 "detail": "null"
             },
             {
                 "start": "1335",
                 "end": "1350",
-                "artist": "callme",
+                "artist": "サンダルテレフォン",
                 "detail": "null"
             },
             {
                 "start": "1350",
-                "end": "1400",
-                "artist": "Road to TIF 2位",
-                "detail": "Spindle"
-            },
-            {
-                "start": "1400",
-                "end": "1415",
-                "artist": "愛乙女☆DOLL",
+                "end": "1405",
+                "artist": "ラストアイドル2期生アンダー",
                 "detail": "null"
             },
             {
-                "start": "1425",
-                "end": "1440",
-                "artist": "RIOT BABY",
+                "start": "1405",
+                "end": "1420",
+                "artist": "ラストアイドル2期生",
                 "detail": "null"
             },
             {
-                "start": "1440",
-                "end": "1455",
-                "artist": "FES☆TIVE",
+                "start": "1445",
+                "end": "1500",
+                "artist": "buGG",
                 "detail": "null"
             },
             {
-                "start": "1455",
-                "end": "1510",
-                "artist": "わーすた",
-                "detail": "null"
+                "start": "1500",
+                "end": "1515",
+                "artist": "TIF×アイドル甲子園",
+                "detail": "メガメガミ<br>■ブルー■"
             },
             {
                 "start": "1515",
-                "end": "1625",
-                "artist": "Next Girls 2018",
-                "detail": "MC:<br>EON（大阪☆春夏秋冬）、MANA（大阪☆春夏秋冬）<br><br>出演：<br>cana÷biss<br>キミイロプロジェクト<br>鈴音ひとみ<br>POEM"
+                "end": "1530",
+                "artist": "TIF×アイドル甲子園",
+                "detail": "Meteonomicon<br>■ブルー■"
             },
             {
-                "start": "1635",
-                "end": "1650",
-                "artist": "ハコイリ♡ムスメ",
+                "start": "1535",
+                "end": "1550",
+                "artist": "ディア☆",
                 "detail": "null"
             },
             {
-                "start": "1650",
-                "end": "1705",
-                "artist": "predia",
+                "start": "1550",
+                "end": "1605",
+                "artist": "Ange☆Reve",
                 "detail": "null"
             },
             {
-                "start": "1705",
+                "start": "1605",
+                "end": "1615",
+                "artist": "Road to TIF 2位",
+                "detail": "null"
+            },
+            {
+                "start": "1615",
+                "end": "1630",
+                "artist": "アメフラっシ",
+                "detail": "null"
+            },
+            {
+                "start": "1630",
+                "end": "1645",
+                "artist": "26時のマスカレイド",
+                "detail": "null"
+            },
+            {
+                "start": "1655",
+                "end": "1710",
+                "artist": "原田珠々華",
+                "detail": "null"
+            },
+            {
+                "start": "1710",
+                "end": "1725",
+                "artist": "転校少女*",
+                "detail": "null"
+            },
+            {
+                "start": "1725",
                 "end": "1740",
-                "artist": "TIFxアイドル 甲子園　Day1",
-                "detail": "Broken By The Scream<br>Malcolm Mask McLaren"
+                "artist": "放課後プリンセス",
+                "detail": "null"
             },
             {
-                "start": "1745",
-                "end": "1800",
-                "artist": "Someday Somewhere",
+                "start": "1740",
+                "end": "1755",
+                "artist": "ネコプラ∞",
                 "detail": "null"
             },
             {
                 "start": "1800",
                 "end": "1815",
-                "artist": "奥澤村",
+                "artist": "開歌-かいか- ",
                 "detail": "null"
             },
             {
                 "start": "1815",
                 "end": "1830",
-                "artist": "絶対直球女子！プレイボールズ ",
+                "artist": "LiKE",
+                "detail": "null"
+            },
+            {
+                "start": "1830",
+                "end": "1845",
+                "artist": "純情のアフィリア",
                 "detail": "null"
             }
         ],
@@ -746,400 +782,370 @@
             {
                 "start": "1100",
                 "end": "1120",
-                "artist": "アイドルカレッジ",
+                "artist": "あゆみくりかまき",
                 "detail": "null"
             },
             {
                 "start": "1120",
                 "end": "1140",
-                "artist": "絶対直球女子！プレイボールズ ",
+                "artist": "Ange☆Reve",
                 "detail": "null"
             },
             {
                 "start": "1140",
                 "end": "1200",
-                "artist": "マジカル・パンチライン",
+                "artist": "KATA☆CHU",
                 "detail": "null"
             },
             {
-                "start": "1200",
-                "end": "1220",
-                "artist": " Jewel☆Rouge",
+                "start": "1205",
+                "end": "1225",
+                "artist": "IVOLVE",
                 "detail": "null"
             },
             {
                 "start": "1225",
                 "end": "1245",
-                "artist": "はちみつロケット",
+                "artist": "天晴れ！原宿",
                 "detail": "null"
             },
             {
                 "start": "1245",
                 "end": "1305",
-                "artist": "アキシブproject",
+                "artist": "Pimm’s",
                 "detail": "null"
             },
             {
-                "start": "1305",
-                "end": "1325",
-                "artist": "Shine Fine Movement",
+                "start": "1310",
+                "end": "1330",
+                "artist": "Party Rockets GT",
                 "detail": "null"
             },
             {
-                "start": "1325",
-                "end": "1345",
-                "artist": "まねきケチャ",
-                "detail": "null"
-            },
-            {
-                "start": "1355",
-                "end": "1415",
-                "artist": "Run Girls, Run！",
-                "detail": "null"
-            },
-            {
-                "start": "1415",
-                "end": "1435",
-                "artist": "虹のコンキスタドール",
-                "detail": "null"
-            },
-            {
-                "start": "1435",
-                "end": "1455",
-                "artist": "純情のアフィリア",
-                "detail": "null"
-            },
-            {
-                "start": "1455",
-                "end": "1515",
-                "artist": "i☆Ris",
-                "detail": "null"
-            },
-            {
-                "start": "1520",
-                "end": "1540",
-                "artist": "Luce Twinkle Wink☆",
-                "detail": "null"
-            },
-            {
-                "start": "1540",
-                "end": "1600",
-                "artist": "WHY@DOLL",
-                "detail": "null"
-            },
-            {
-                "start": "1600",
-                "end": "1620",
-                "artist": "PiXMiX",
-                "detail": "null"
-            },
-            {
-                "start": "1620",
-                "end": "1640",
-                "artist": "東京女子流",
-                "detail": "null"
-            },
-            {
-                "start": "1650",
-                "end": "1710",
-                "artist": "神使轟く、激情の如く。 ",
-                "detail": "null"
-            },
-            {
-                "start": "1710",
-                "end": "1730",
-                "artist": "ゆるめるモ！ ",
-                "detail": "null"
-            },
-            {
-                "start": "1730",
-                "end": "1750",
-                "artist": "Ange☆Reve",
-                "detail": "null"
-            },
-            {
-                "start": "1750",
-                "end": "1810",
-                "artist": "東京パフォーマンスドール",
-                "detail": "null"
-            },
-            {
-                "start": "1815",
-                "end": "1835",
-                "artist": "PASSPO☆",
-                "detail": "null"
-            },
-            {
-                "start": "1835",
-                "end": "1855",
-                "artist": "PASSPO☆×風男塾",
-                "detail": "null"
-            },
-            {
-                "start": "1855",
-                "end": "1915",
-                "artist": "THERE THERE THERES",
-                "detail": "null"
-            },
-            {
-                "start": "1925",
-                "end": "1945",
-                "artist": "amiinA",
-                "detail": "null"
-            },
-            {
-                "start": "1950",
-                "end": "2010",
-                "artist": "あゆみくりかまき",
-                "detail": "null"
-            },
-            {
-                "start": "2010",
-                "end": "2030",
-                "artist": "大阪☆春夏秋冬",
-                "detail": "null"
-            }
-        ],
-        "INFO CENTRE": [
-            {
-                "start": "1100",
-                "end": "1130",
-                "artist": "TOKYO GRAVURE IDOL FESTIVAL 2018 トークの部 DAY１",
-                "detail": "null"
-            },
-            {
-                "start": "1140",
-                "end": "1225",
-                "artist": "スーパーファンタジー  TIF2018スペシャルステージ",
-                "detail": "null"
-            },
-            {
-                "start": "1235",
-                "end": "1305",
-                "artist": "楽天チケットスペシャルステージ",
-                "detail": "ＭＣ：クロちゃん（安田大サーカス）<br><br>Run Girls,Run!"
-            },
-            {
-                "start": "1315",
-                "end": "1345",
-                "artist": "スペシャルトークステージ supported by生メール",
-                "detail": "null"
-            },
-            {
-                "start": "1500",
-                "end": "1600",
-                "artist": "ミュージックパーク エンタメシンポジウム",
-                "detail": "MC：吉田尚記（ニッポン放送）"
-            },
-            {
-                "start": "1615",
-                "end": "1715",
-                "artist": "アイドルカラオケバトル2018",
-                "detail": "null"
-            },
-            {
-                "start": "1725",
-                "end": "1740",
-                "artist": "TOKYO IDOL PROJECT  × @JAM トークショー",
-                "detail": "null"
-            },
-            {
-                "start": "1800",
-                "end": "1850",
-                "artist": "cookpadTV　クックアイドルNo.1 決定戦　振り返りトークステージ",
-                "detail": "MC:酒井瞳<br><br>出演：=LOVE 瀧脇笙古、Q-pitch 榎本あやせ、ネコプラ みく、ネコプラ ゆりな"
-            },
-            {
-                "start": "1900",
-                "end": "2100",
-                "artist": "スナックうめ子2018夏 〜今年もいろいろあるよねー〜",
-                "detail": "MC：河村唯<br><br>酒井瞳"
-            }
-        ],
-        "FUJI YOKO STAGE": [
-            {
-                "start": "1105",
-                "end": "1120",
-                "artist": "Shine Fine Movement",
-                "detail": "null"
-            },
-            {
-                "start": "1120",
-                "end": "1135",
-                "artist": "PiXMiX",
-                "detail": "null"
-            },
-            {
-                "start": "1135",
-                "end": "1150",
-                "artist": "FES☆TIVE",
-                "detail": "null"
-            },
-            {
-                "start": "1150",
-                "end": "1205",
-                "artist": "神使轟く、激情の如く。 ",
-                "detail": "null"
-            },
-            {
-                "start": "1215",
-                "end": "1230",
-                "artist": "lyrical school",
-                "detail": "null"
-            },
-            {
-                "start": "1230",
-                "end": "1245",
-                "artist": "RIOT BABY",
-                "detail": "null"
-            },
-            {
-                "start": "1245",
-                "end": "1300",
-                "artist": "原田珠々華",
-                "detail": "null"
-            },
-            {
-                "start": "1300",
-                "end": "1315",
-                "artist": "吉川友",
-                "detail": "null"
-            },
-            {
-                "start": "1320",
-                "end": "1335",
-                "artist": "つりビット",
-                "detail": "null"
-            },
-            {
-                "start": "1335",
+                "start": "1330",
                 "end": "1350",
-                "artist": "Parfait",
+                "artist": "まなみのりさ",
                 "detail": "null"
             },
             {
                 "start": "1350",
-                "end": "1405",
-                "artist": "X21",
+                "end": "1410",
+                "artist": "PiXMiX",
                 "detail": "null"
             },
             {
-                "start": "1405",
-                "end": "1420",
-                "artist": "ONEPIXCEL",
+                "start": "1420",
+                "end": "1440",
+                "artist": "芹澤 優",
                 "detail": "null"
             },
             {
-                "start": "1430",
-                "end": "1445",
-                "artist": "ゑんら",
-                "detail": "null"
-            },
-            {
-                "start": "1445",
+                "start": "1440",
                 "end": "1500",
-                "artist": "ROSARIO+CROSS",
+                "artist": "ふわふわ",
                 "detail": "null"
             },
             {
                 "start": "1500",
-                "end": "1515",
-                "artist": "Lovelys",
+                "end": "1520",
+                "artist": "PINK CRES.",
                 "detail": "null"
             },
             {
-                "start": "1515",
-                "end": "1530",
-                "artist": "アイドルカレッジ",
+                "start": "1525",
+                "end": "1545",
+                "artist": "LiKE",
                 "detail": "null"
             },
             {
-                "start": "1535",
-                "end": "1550",
-                "artist": "ヤなことそっとミュート",
-                "detail": "null"
-            },
-            {
-                "start": "1550",
+                "start": "1545",
                 "end": "1605",
-                "artist": "『インキーウップス』",
+                "artist": "BEYOOOOONDS ",
                 "detail": "null"
             },
             {
                 "start": "1605",
-                "end": "1620",
-                "artist": "放課後プリンセス",
+                "end": "1625",
+                "artist": "SUPER☆GiRLS",
                 "detail": "null"
             },
             {
-                "start": "1620",
-                "end": "1635",
-                "artist": " Jewel☆Rouge",
+                "start": "1630",
+                "end": "1645",
+                "artist": "Good Tears",
                 "detail": "null"
             },
             {
                 "start": "1645",
                 "end": "1700",
-                "artist": "S★スパイシー",
+                "artist": "シュークリームロケッツ",
                 "detail": "null"
             },
             {
                 "start": "1700",
                 "end": "1715",
-                "artist": "KAMOがネギをしょってくるッ!!!",
+                "artist": "Love Cocchi",
                 "detail": "null"
             },
             {
-                "start": "1715",
-                "end": "1730",
-                "artist": "CYNHN",
-                "detail": "null"
-            },
-            {
-                "start": "1730",
+                "start": "1725",
                 "end": "1745",
-                "artist": "アップアップガールズ（2）",
+                "artist": "amiinA",
                 "detail": "null"
             },
             {
-                "start": "1750",
+                "start": "1745",
                 "end": "1805",
-                "artist": "・・・・・・・・・",
+                "artist": "新しい学校のリーダーズ",
                 "detail": "null"
             },
             {
                 "start": "1805",
-                "end": "1820",
-                "artist": "パンダみっく",
+                "end": "1825",
+                "artist": "ZOC",
                 "detail": "null"
             },
             {
-                "start": "1820",
-                "end": "1835",
-                "artist": "終演後物販卍",
+                "start": "1830",
+                "end": "1850",
+                "artist": "つばきファクトリー",
+                "detail": "null"
+            },
+            {
+                "start": "1850",
+                "end": "1910",
+                "artist": "二丁目の魁カミングアウト",
+                "detail": "null"
+            },
+            {
+                "start": "1910",
+                "end": "1930",
+                "artist": "寺嶋由芙",
+                "detail": "null"
+            },
+            {
+                "start": "1935",
+                "end": "1955",
+                "artist": "アップアップガールズ（仮）",
+                "detail": "null"
+            },
+            {
+                "start": "1955",
+                "end": "2015",
+                "artist": "monogatari",
+                "detail": "null"
+            },
+            {
+                "start": "2015",
+                "end": "2035",
+                "artist": "まねきケチャ",
+                "detail": "null"
+            }
+        ],
+        "INFO CENTRE": [
+            {
+                "start": "1230",
+                "end": "1430",
+                "artist": "週刊フジテレビ批評",
+                "detail": "26時のマスカレイド／Task have Fun／絵恋ちゃん／マジカル・パンチライン／アンジュルム／ラストアイドル<br><br>わーすた／ナナランド／iRis／桜えび"
+            },
+            {
+                "start": "1745",
+                "end": "1845",
+                "artist": "アイドルカラオケバトル2019",
+                "detail": "null"
+            },
+            {
+                "start": "1900",
+                "end": "2100",
+                "artist": "スナックうめ子2019夏",
+                "detail": "null"
+            },
+            {
+                "start": "1900",
+                "end": "2100",
+                "artist": "メンテナンス",
+                "detail": "スナックうめ子2019夏"
+            }
+        ],
+        "FUJI YOKO STAGE": [
+            {
+                "start": "1100",
+                "end": "1115",
+                "artist": "アメフラっシ",
+                "detail": "null"
+            },
+            {
+                "start": "1115",
+                "end": "1130",
+                "artist": "サンダルテレフォン",
+                "detail": "null"
+            },
+            {
+                "start": "1130",
+                "end": "1145",
+                "artist": "いぎなり東北産",
+                "detail": "null"
+            },
+            {
+                "start": "1145",
+                "end": "1200",
+                "artist": "めろん畑a go go",
+                "detail": "null"
+            },
+            {
+                "start": "1210",
+                "end": "1225",
+                "artist": "QUEENS",
+                "detail": "null"
+            },
+            {
+                "start": "1225",
+                "end": "1240",
+                "artist": "143∽",
+                "detail": "null"
+            },
+            {
+                "start": "1240",
+                "end": "1255",
+                "artist": "Fragrant Drive",
+                "detail": "null"
+            },
+            {
+                "start": "1255",
+                "end": "1310",
+                "artist": "Fullfull Pocket",
+                "detail": "null"
+            },
+            {
+                "start": "1315",
+                "end": "1330",
+                "artist": "原田珠々華",
+                "detail": "null"
+            },
+            {
+                "start": "1330",
+                "end": "1345",
+                "artist": "ディア☆",
+                "detail": "null"
+            },
+            {
+                "start": "1345",
+                "end": "1400",
+                "artist": "WHY@DOLL",
+                "detail": "null"
+            },
+            {
+                "start": "1400",
+                "end": "1415",
+                "artist": "吉川友",
+                "detail": "null"
+            },
+            {
+                "start": "1425",
+                "end": "1440",
+                "artist": "DREAMING MONSTER",
+                "detail": "null"
+            },
+            {
+                "start": "1440",
+                "end": "1455",
+                "artist": "ネコプラ∞",
+                "detail": "null"
+            },
+            {
+                "start": "1455",
+                "end": "1510",
+                "artist": "いちごみるく色に染まりたい。光 ",
+                "detail": "null"
+            },
+            {
+                "start": "1510",
+                "end": "1525",
+                "artist": "Leo-Wonder",
+                "detail": "null"
+            },
+            {
+                "start": "1530",
+                "end": "1545",
+                "artist": "寺嶋由芙",
+                "detail": "null"
+            },
+            {
+                "start": "1545",
+                "end": "1600",
+                "artist": "DEAR KISS",
+                "detail": "null"
+            },
+            {
+                "start": "1600",
+                "end": "1615",
+                "artist": "Lovelys",
+                "detail": "null"
+            },
+            {
+                "start": "1615",
+                "end": "1630",
+                "artist": "ハコイリ♡ムスメ",
+                "detail": "null"
+            },
+            {
+                "start": "1640",
+                "end": "1655",
+                "artist": "BILLIE IDLE®",
+                "detail": "null"
+            },
+            {
+                "start": "1655",
+                "end": "1710",
+                "artist": "ヲルタナティヴ",
+                "detail": "null"
+            },
+            {
+                "start": "1710",
+                "end": "1725",
+                "artist": "tipToe. ",
+                "detail": "null"
+            },
+            {
+                "start": "1725",
+                "end": "1740",
+                "artist": "MIGMA SHELTER",
+                "detail": "null"
+            },
+            {
+                "start": "1745",
+                "end": "1800",
+                "artist": "全力少女R",
+                "detail": "null"
+            },
+            {
+                "start": "1800",
+                "end": "1815",
+                "artist": "絶対直球女子！プレイボールズ ",
+                "detail": "null"
+            },
+            {
+                "start": "1815",
+                "end": "1830",
+                "artist": "アップアップガールズ（プロレス）",
                 "detail": "null"
             },
             {
                 "start": "1835",
                 "end": "1850",
-                "artist": "劇場版ゴキゲン帝国",
+                "artist": "CROWN POP",
                 "detail": "null"
             },
             {
-                "start": "1900",
-                "end": "1915",
-                "artist": "さきどり発進局",
+                "start": "1850",
+                "end": "1905",
+                "artist": "buGG",
                 "detail": "null"
             },
             {
-                "start": "1915",
-                "end": "1930",
-                "artist": "Chu☆Oh!Dolly",
-                "detail": "null"
-            },
-            {
-                "start": "1930",
-                "end": "1945",
+                "start": "1905",
+                "end": "1920",
                 "artist": "天晴れ！原宿",
                 "detail": "null"
             }
@@ -1150,109 +1156,109 @@
             {
                 "start": "1000",
                 "end": "1035",
-                "artist": "スペシャルファンミーティングステージ (Tシャツ購入者限定ステージ)",
-                "detail": "=LOVE<br>大阪☆春夏秋冬<br>PASSPO☆"
+                "artist": "スペシャルファンミーティングステージ (Tシャツ購入者限定ステージ)　Day2",
+                "detail": "SUPER☆GiRLS／Task have Fun／26時のマスカレイド<br>■ブルー■"
             },
             {
                 "start": "1050",
-                "end": "1120",
-                "artist": "NMB48",
+                "end": "1105",
+                "artist": "LINE LIVE OPアクト枠",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1105",
+                "end": "1135",
+                "artist": "SUPER☆GiRLS",
                 "detail": "null"
             },
             {
-                "start": "1125",
-                "end": "1140",
-                "artist": "Road to TIF 1位",
-                "detail": "QunQun"
-            },
-            {
-                "start": "1145",
-                "end": "1215",
-                "artist": "AKB48 Team 8",
+                "start": "1140",
+                "end": "1210",
+                "artist": "FES☆TIVE",
                 "detail": "null"
             },
             {
-                "start": "1220",
-                "end": "1250",
-                "artist": "ふわふわ",
+                "start": "1215",
+                "end": "1245",
+                "artist": "ゆるめるモ！ ",
                 "detail": "null"
             },
             {
-                "start": "1255",
-                "end": "1325",
-                "artist": "わーすた",
+                "start": "1250",
+                "end": "1320",
+                "artist": "風男塾",
                 "detail": "null"
             },
             {
-                "start": "1330",
-                "end": "1350",
-                "artist": "BiS2nd",
+                "start": "1325",
+                "end": "1355",
+                "artist": "predia",
                 "detail": "null"
             },
             {
-                "start": "1350",
-                "end": "1420",
-                "artist": "BiS1st",
+                "start": "1405",
+                "end": "1505",
+                "artist": "ラストアイドルファミリー",
                 "detail": "null"
             },
             {
-                "start": "1425",
-                "end": "1455",
-                "artist": "Task have Fun",
+                "start": "1520",
+                "end": "1550",
+                "artist": "天晴れ！原宿",
                 "detail": "null"
             },
             {
-                "start": "1550",
-                "end": "1620",
-                "artist": "WACK presents  DREAMLIGHTS in TIF",
-                "detail": "アイナ・ジ・エンド×松隈ケンタ<br>SAiNT SEX<br>HOLY SHiTS<br>ユイ・ガ・ドクソン(GANG PARADE)"
-            },
-            {
-                "start": "1625",
-                "end": "1655",
-                "artist": "あゆみくりかまき",
+                "start": "1555",
+                "end": "1625",
+                "artist": "アップアップガールズ（仮）",
                 "detail": "null"
             },
             {
-                "start": "1700",
-                "end": "1730",
+                "start": "1630",
+                "end": "1700",
                 "artist": "フィロソフィーのダンス",
                 "detail": "null"
             },
             {
-                "start": "1735",
-                "end": "1805",
-                "artist": "GANG PARADE",
+                "start": "1705",
+                "end": "1735",
+                "artist": "ふわふわ",
                 "detail": "null"
             },
             {
-                "start": "1810",
-                "end": "1840",
-                "artist": "たこやきレインボー",
+                "start": "1745",
+                "end": "1815",
+                "artist": "26時のマスカレイド",
+                "detail": "null"
+            },
+            {
+                "start": "1820",
+                "end": "1835",
+                "artist": "Road to TIF 1位",
                 "detail": "null"
             },
             {
                 "start": "1840",
                 "end": "1910",
-                "artist": "sora tob sakana",
-                "detail": "null"
+                "artist": "STU48",
+                "detail": "TIF選抜メンバー"
             },
             {
                 "start": "1915",
                 "end": "1945",
-                "artist": "ゆるめるモ！ ",
+                "artist": "Task have Fun",
                 "detail": "null"
             },
             {
                 "start": "1950",
                 "end": "2020",
-                "artist": "アップアップガールズ（仮）",
+                "artist": "神宿",
                 "detail": "null"
             },
             {
                 "start": "2025",
                 "end": "2055",
-                "artist": "BiSH",
+                "artist": "でんぱ組.inc",
                 "detail": "null"
             }
         ],
@@ -1260,187 +1266,205 @@
             {
                 "start": "1000",
                 "end": "1015",
-                "artist": "Pimm’s",
+                "artist": "アキシブproject",
                 "detail": "null"
             },
             {
                 "start": "1015",
                 "end": "1030",
-                "artist": "Q-pitch",
+                "artist": "君の隣のラジかるん",
                 "detail": "null"
             },
             {
                 "start": "1030",
                 "end": "1045",
-                "artist": "uijin",
+                "artist": "Chu☆Oh!Dolly",
                 "detail": "null"
             },
             {
                 "start": "1045",
                 "end": "1100",
-                "artist": "ゆるめるモ！ ",
+                "artist": "predia",
                 "detail": "null"
             },
             {
                 "start": "1105",
                 "end": "1120",
-                "artist": "奥澤村",
+                "artist": "いちごみるく色に染まりたい。光 ",
                 "detail": "null"
             },
             {
                 "start": "1120",
                 "end": "1135",
-                "artist": " Jewel☆Rouge",
+                "artist": "Payrin's",
                 "detail": "null"
             },
             {
                 "start": "1135",
                 "end": "1150",
-                "artist": "S★スパイシー",
+                "artist": "じゅじゅ",
                 "detail": "null"
             },
             {
                 "start": "1150",
                 "end": "1205",
-                "artist": "パピロジェ",
+                "artist": "CYNHN",
                 "detail": "null"
             },
             {
-                "start": "1215",
-                "end": "1230",
-                "artist": "会心ノ一撃",
+                "start": "1210",
+                "end": "1225",
+                "artist": "A応P",
                 "detail": "null"
             },
             {
-                "start": "1230",
-                "end": "1245",
-                "artist": "我儘ラキア",
+                "start": "1225",
+                "end": "1240",
+                "artist": "feelNEO",
                 "detail": "null"
             },
             {
-                "start": "1245",
-                "end": "1300",
-                "artist": "じゅじゅ",
+                "start": "1240",
+                "end": "1255",
+                "artist": "クマリデパート",
                 "detail": "null"
             },
             {
-                "start": "1300",
-                "end": "1315",
-                "artist": "ヤなことそっとミュート",
+                "start": "1255",
+                "end": "1310",
+                "artist": "STARMARIE",
                 "detail": "null"
             },
             {
                 "start": "1320",
                 "end": "1335",
-                "artist": "ロッカジャポニカ",
+                "artist": "Lovelys",
                 "detail": "null"
             },
             {
                 "start": "1335",
                 "end": "1350",
-                "artist": "いぎなり東北産",
+                "artist": "SAY-LA",
                 "detail": "null"
             },
             {
                 "start": "1350",
                 "end": "1405",
-                "artist": "パンダみっく",
+                "artist": "Re:Clash",
                 "detail": "null"
             },
             {
                 "start": "1405",
                 "end": "1420",
-                "artist": "Someday Somewhere",
-                "detail": "null"
-            },
-            {
-                "start": "1430",
-                "end": "1530",
-                "artist": "週刊ヤングジャンプpresents サキドル エース SURVIVAL THE LIVE",
-                "detail": "null"
-            },
-            {
-                "start": "1535",
-                "end": "1550",
-                "artist": "純粋カフェ･ラッテ",
-                "detail": "null"
-            },
-            {
-                "start": "1550",
-                "end": "1605",
-                "artist": "東京パフォーマンスドール",
-                "detail": "null"
-            },
-            {
-                "start": "1605",
-                "end": "1620",
                 "artist": "アイドルカレッジ",
                 "detail": "null"
             },
             {
-                "start": "1620",
+                "start": "1425",
+                "end": "1450",
+                "artist": "この指グランプリ～歌うま選手権～スペシャルコラボステージ",
+                "detail": "SENA(MELLOW MELLOW)／南向いずみ（BLACKNAZARENE）／日向ハル（フィロソフィーのダンス）／湊あかね（predia）<br>■ブルー■"
+            },
+            {
+                "start": "1450",
+                "end": "1505",
+                "artist": "kolme",
+                "detail": "null"
+            },
+            {
+                "start": "1505",
+                "end": "1520",
+                "artist": "Road to TIF 4位",
+                "detail": "null"
+            },
+            {
+                "start": "1520",
+                "end": "1535",
+                "artist": "BenjaminJasmine",
+                "detail": "null"
+            },
+            {
+                "start": "1540",
+                "end": "1555",
+                "artist": "ピュアリーモンスター",
+                "detail": "null"
+            },
+            {
+                "start": "1555",
+                "end": "1610",
+                "artist": "ENGAG.ING",
+                "detail": "null"
+            },
+            {
+                "start": "1610",
+                "end": "1625",
+                "artist": "放課後プリンセス",
+                "detail": "null"
+            },
+            {
+                "start": "1625",
                 "end": "1640",
-                "artist": "AKB48 フレッシュ選抜",
+                "artist": "ROSARIO+CROSS",
                 "detail": "null"
             },
             {
                 "start": "1700",
                 "end": "1800",
-                "artist": "アームレスリング大会  powerd by TOWER RECORDS ザ・感謝祭",
-                "detail": "null"
+                "artist": "TIF2019アームレスリング大会 powerd by TOWER RECORDS ザ・感謝祭",
+                "detail": "■ブルー■"
             },
             {
                 "start": "1810",
                 "end": "1825",
-                "artist": "lyrical school",
+                "artist": "ネコプラ∞",
                 "detail": "null"
             },
             {
                 "start": "1825",
                 "end": "1840",
-                "artist": "tipToe. ",
+                "artist": "SKOOL GIRL BYE BYE",
                 "detail": "null"
             },
             {
                 "start": "1840",
                 "end": "1855",
-                "artist": "Gallop+",
+                "artist": "Leo-Wonder",
                 "detail": "null"
             },
             {
                 "start": "1855",
                 "end": "1910",
-                "artist": "monogatari",
+                "artist": "校庭カメラアクトレス",
                 "detail": "null"
             },
             {
                 "start": "1915",
                 "end": "1930",
-                "artist": "二丁目の魁カミングアウト",
+                "artist": "Malcolm Mask McLaren",
                 "detail": "null"
             },
             {
                 "start": "1930",
                 "end": "1945",
-                "artist": "バニラビーンズ",
+                "artist": "SOL",
                 "detail": "null"
             },
             {
                 "start": "1945",
                 "end": "2000",
-                "artist": "Good Tears",
+                "artist": "ZOC",
                 "detail": "null"
             },
             {
                 "start": "2000",
                 "end": "2015",
-                "artist": "神宿",
+                "artist": "sora tob sakana",
                 "detail": "null"
             },
             {
                 "start": "2015",
                 "end": "2030",
-                "artist": "アキシブproject",
+                "artist": "monogatari",
                 "detail": "null"
             }
         ],
@@ -1448,193 +1472,199 @@
             {
                 "start": "1030",
                 "end": "1045",
-                "artist": "東京CLEAR’S SMILE",
+                "artist": "ASTROMATE",
                 "detail": "null"
             },
             {
                 "start": "1045",
                 "end": "1100",
-                "artist": "PINKYCASE",
+                "artist": "大阪☆春夏秋冬",
                 "detail": "null"
             },
             {
                 "start": "1100",
                 "end": "1115",
-                "artist": "LaLuce",
+                "artist": "ヲルタナティヴ",
                 "detail": "null"
             },
             {
                 "start": "1115",
                 "end": "1130",
-                "artist": "放課後プリンセス",
+                "artist": "DEAR KISS",
                 "detail": "null"
             },
             {
-                "start": "1130",
-                "end": "1145",
-                "artist": "シンセカイセン",
+                "start": "1135",
+                "end": "1150",
+                "artist": "JOY VAN CREW",
                 "detail": "null"
             },
             {
-                "start": "1155",
-                "end": "1210",
-                "artist": "Party Rockets GT",
+                "start": "1150",
+                "end": "1205",
+                "artist": "パクスプエラ",
                 "detail": "null"
             },
             {
-                "start": "1210",
-                "end": "1225",
-                "artist": "・・・・・・・・・",
+                "start": "1205",
+                "end": "1220",
+                "artist": "きゃわふるTORNADO",
                 "detail": "null"
             },
             {
                 "start": "1225",
                 "end": "1240",
-                "artist": "マジェスティックセブン",
+                "artist": "ナナランド",
                 "detail": "null"
             },
             {
                 "start": "1240",
                 "end": "1255",
-                "artist": "monogatari",
+                "artist": "九州女子翼",
                 "detail": "null"
             },
             {
                 "start": "1255",
                 "end": "1310",
-                "artist": "BNK48",
+                "artist": "フルーレット",
                 "detail": "null"
             },
             {
                 "start": "1410",
                 "end": "1425",
-                "artist": "まねきケチャ",
+                "artist": "大野姉妹 with カネハマヒカリ",
                 "detail": "null"
             },
             {
                 "start": "1425",
                 "end": "1440",
-                "artist": "ザ・フーパーズ",
+                "artist": "ミルクス本物",
                 "detail": "null"
             },
             {
                 "start": "1440",
                 "end": "1455",
-                "artist": "さんみゅ〜",
+                "artist": "手羽先センセーション",
                 "detail": "null"
             },
             {
                 "start": "1455",
                 "end": "1510",
-                "artist": "バニラビーンズ",
+                "artist": "マリオネッ。",
                 "detail": "null"
             },
             {
                 "start": "1515",
                 "end": "1530",
-                "artist": "LinQ",
+                "artist": "われらがプワプワプーワプワ ",
                 "detail": "null"
             },
             {
                 "start": "1530",
                 "end": "1545",
-                "artist": "九州女子翼",
+                "artist": "Q-pitch",
                 "detail": "null"
             },
             {
                 "start": "1545",
                 "end": "1600",
-                "artist": "PiXMiX",
+                "artist": "LiKE",
                 "detail": "null"
             },
             {
                 "start": "1600",
                 "end": "1615",
-                "artist": "ミルクス本物",
+                "artist": "BNK48",
                 "detail": "null"
             },
             {
-                "start": "1625",
-                "end": "1640",
-                "artist": "２代目HAPPY少女♪ ",
+                "start": "1620",
+                "end": "1635",
+                "artist": "monogatari",
                 "detail": "null"
             },
             {
-                "start": "1640",
-                "end": "1655",
-                "artist": "Luce Twinkle Wink☆",
+                "start": "1635",
+                "end": "1650",
+                "artist": "KATA☆CHU",
                 "detail": "null"
             },
             {
-                "start": "1655",
-                "end": "1710",
-                "artist": "はちみつロケット",
+                "start": "1650",
+                "end": "1705",
+                "artist": "フルーティー",
                 "detail": "null"
             },
             {
-                "start": "1710",
-                "end": "1725",
-                "artist": "夢みるアドレセンス",
+                "start": "1705",
+                "end": "1720",
+                "artist": "ローファーズハイ!!    ",
                 "detail": "null"
             },
             {
                 "start": "1730",
                 "end": "1745",
-                "artist": "たけやま3.5",
+                "artist": "Yamakatsu",
                 "detail": "null"
             },
             {
                 "start": "1745",
                 "end": "1800",
-                "artist": "神宿",
+                "artist": "RIOT BABY",
                 "detail": "null"
             },
             {
                 "start": "1800",
                 "end": "1815",
-                "artist": "Love Cocchi",
+                "artist": "raymay",
                 "detail": "null"
             },
             {
-                "start": "1825",
-                "end": "1840",
-                "artist": "2o Love to Sweet Bullet",
+                "start": "1815",
+                "end": "1830",
+                "artist": "STARMARIE",
                 "detail": "null"
             },
             {
-                "start": "1840",
-                "end": "1855",
-                "artist": "柳♡箱",
-                "detail": "※３出演者は下記に記載"
-            },
-            {
-                "start": "1855",
-                "end": "1910",
-                "artist": "ばってん少女隊",
+                "start": "1835",
+                "end": "1850",
+                "artist": "littlemore.",
                 "detail": "null"
             },
             {
-                "start": "1910",
-                "end": "1925",
-                "artist": "ONEPIXCEL",
+                "start": "1850",
+                "end": "1905",
+                "artist": "寺嶋由芙",
                 "detail": "null"
             },
             {
-                "start": "1930",
-                "end": "1950",
-                "artist": "PASSPO☆",
+                "start": "1905",
+                "end": "1920",
+                "artist": "Luce Twinkle Wink☆",
                 "detail": "null"
             },
             {
-                "start": "1950",
-                "end": "2010",
-                "artist": "9nine",
+                "start": "1920",
+                "end": "1935",
+                "artist": "LinQ",
                 "detail": "null"
             },
             {
-                "start": "2010",
-                "end": "2030",
-                "artist": "東京パフォーマンスドール",
+                "start": "1940",
+                "end": "1955",
+                "artist": "Ange☆Reve",
+                "detail": "null"
+            },
+            {
+                "start": "1955",
+                "end": "2015",
+                "artist": "uijin",
+                "detail": "null"
+            },
+            {
+                "start": "2015",
+                "end": "2035",
+                "artist": "まねきケチャ",
                 "detail": "null"
             }
         ],
@@ -1643,138 +1673,478 @@
                 "start": "0945",
                 "end": "1000",
                 "artist": "ラジオ体操",
-                "detail": "null"
+                "detail": "■ブルー■"
             },
             {
                 "start": "1000",
-                "end": "1020",
-                "artist": "ロッカジャポニカ",
-                "detail": "null"
-            },
-            {
-                "start": "1020",
-                "end": "1040",
-                "artist": "FES☆TIVE",
-                "detail": "null"
+                "end": "1030",
+                "artist": "STU48",
+                "detail": "青い向日葵＆瀬戸7"
             },
             {
                 "start": "1040",
                 "end": "1100",
-                "artist": "マジカル・パンチライン",
+                "artist": "桜エビ〜ず",
                 "detail": "null"
             },
             {
                 "start": "1100",
                 "end": "1120",
-                "artist": "虹のコンキスタドール",
+                "artist": "lyrical school",
                 "detail": "null"
             },
             {
-                "start": "1130",
-                "end": "1150",
-                "artist": "転校少女*",
+                "start": "1120",
+                "end": "1140",
+                "artist": "二丁目の魁カミングアウト",
                 "detail": "null"
             },
             {
                 "start": "1150",
                 "end": "1210",
-                "artist": "Ange☆Reve",
+                "artist": "amiinA",
                 "detail": "null"
             },
             {
                 "start": "1210",
                 "end": "1230",
-                "artist": "さんみゅ〜",
+                "artist": "アキシブproject",
                 "detail": "null"
             },
             {
                 "start": "1230",
                 "end": "1250",
-                "artist": "amiinA",
+                "artist": "マジカル・パンチライン",
                 "detail": "null"
             },
             {
                 "start": "1255",
-                "end": "1325",
-                "artist": "IDOL SUMMER JAMBOREE",
-                "detail": "※１　出演者は下記に記載"
+                "end": "1315",
+                "artist": "でんぱ組虹コンJr.メンバー オーディションステージ",
+                "detail": "■ブルー■"
             },
             {
-                "start": "1335",
-                "end": "1355",
-                "artist": "あゆみくりかまき",
-                "detail": "null"
+                "start": "1315",
+                "end": "1340",
+                "artist": " スペシャルコラボステージ",
+                "detail": "東京女子流×ときめき♡宣伝部<br>■ブルー■"
             },
             {
-                "start": "1355",
-                "end": "1425",
-                "artist": "スペシャルコラボライブ",
-                "detail": "はちみつロケット×ONEPIXCEL<br>"
-            },
-            {
-                "start": "1430",
-                "end": "1450",
-                "artist": "AKB48 フレッシュ選抜",
-                "detail": "null"
-            },
-            {
-                "start": "1520",
-                "end": "1550",
-                "artist": "サマソニ×TIF",
-                "detail": "たこやきレインボー with<br>なにわンダーたこ虹バンド"
-            },
-            {
-                "start": "1605",
-                "end": "1620",
-                "artist": "バニラビーンズ",
-                "detail": "null"
-            },
-            {
-                "start": "1620",
-                "end": "1640",
-                "artist": "東京女子流 with 大原優乃",
-                "detail": "null"
-            },
-            {
-                "start": "1640",
-                "end": "1700",
+                "start": "1340",
+                "end": "1400",
                 "artist": "BNK48",
                 "detail": "null"
             },
             {
-                "start": "1700",
-                "end": "1720",
-                "artist": "純情のアフィリア",
+                "start": "1410",
+                "end": "1430",
+                "artist": "愛乙女☆DOLL",
                 "detail": "null"
             },
             {
-                "start": "1725",
-                "end": "1745",
-                "artist": "SUPER☆GiRLS",
+                "start": "1430",
+                "end": "1450",
+                "artist": "転校少女*",
                 "detail": "null"
             },
             {
-                "start": "1745",
-                "end": "1805",
-                "artist": "ばってん少女隊",
+                "start": "1450",
+                "end": "1510",
+                "artist": "sora tob sakana",
                 "detail": "null"
             },
             {
-                "start": "1805",
-                "end": "1825",
+                "start": "1520",
+                "end": "1540",
+                "artist": "たけやま3.5",
+                "detail": "null"
+            },
+            {
+                "start": "1540",
+                "end": "1600",
                 "artist": "LinQ",
                 "detail": "null"
             },
             {
-                "start": "1845",
-                "end": "1920",
+                "start": "1600",
+                "end": "1630",
+                "artist": "IDOL SUMMER JAMBOREE",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1635",
+                "end": "1705",
+                "artist": "AKB48 2029ラジオフレッシュ選抜",
+                "detail": "null"
+            },
+            {
+                "start": "1710",
+                "end": "1730",
+                "artist": "純情のアフィリア",
+                "detail": "null"
+            },
+            {
+                "start": "1730",
+                "end": "1750",
+                "artist": "まねきケチャ",
+                "detail": "null"
+            },
+            {
+                "start": "1750",
+                "end": "1810",
+                "artist": "夢みるアドレセンス",
+                "detail": "null"
+            },
+            {
+                "start": "1835",
+                "end": "1910",
                 "artist": "IDOL SUMMER JAMBOREE ACOUSTIC",
-                "detail": "※２　出演者は下記に記載"
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1920",
+                "end": "1950",
+                "artist": "日向坂46",
+                "detail": "null"
+            }
+        ],
+        "FESTIVAL STAGE": [
+            {
+                "start": "1000",
+                "end": "1015",
+                "artist": "Jewel☆Neige",
+                "detail": "null"
+            },
+            {
+                "start": "1015",
+                "end": "1030",
+                "artist": "PINKYCASE",
+                "detail": "null"
+            },
+            {
+                "start": "1030",
+                "end": "1045",
+                "artist": "ローファーズハイ!!    ",
+                "detail": "null"
+            },
+            {
+                "start": "1045",
+                "end": "1100",
+                "artist": "絵恋ちゃん",
+                "detail": "null"
+            },
+            {
+                "start": "1105",
+                "end": "1120",
+                "artist": "上月せれな",
+                "detail": "null"
+            },
+            {
+                "start": "1120",
+                "end": "1135",
+                "artist": "Mi☆nA",
+                "detail": "null"
+            },
+            {
+                "start": "1135",
+                "end": "1150",
+                "artist": "Road to TIF 5位",
+                "detail": "null"
+            },
+            {
+                "start": "1150",
+                "end": "1205",
+                "artist": "dela",
+                "detail": "null"
+            },
+            {
+                "start": "1215",
+                "end": "1230",
+                "artist": "パンダみっく",
+                "detail": "null"
+            },
+            {
+                "start": "1230",
+                "end": "1245",
+                "artist": "BLACKNAZARENE",
+                "detail": "null"
+            },
+            {
+                "start": "1245",
+                "end": "1300",
+                "artist": "WILL-O'",
+                "detail": "null"
+            },
+            {
+                "start": "1300",
+                "end": "1315",
+                "artist": "Luce Twinkle Wink☆",
+                "detail": "null"
+            },
+            {
+                "start": "1320",
+                "end": "1335",
+                "artist": "STU48",
+                "detail": "せとまいく"
+            },
+            {
+                "start": "1335",
+                "end": "1350",
+                "artist": "REBIRTH",
+                "detail": "null"
+            },
+            {
+                "start": "1350",
+                "end": "1405",
+                "artist": "ael -アエル-",
+                "detail": "null"
+            },
+            {
+                "start": "1405",
+                "end": "1420",
+                "artist": "かみやど",
+                "detail": "null"
+            },
+            {
+                "start": "1440",
+                "end": "1455",
+                "artist": "ROSARIO+CROSS",
+                "detail": "null"
+            },
+            {
+                "start": "1455",
+                "end": "1510",
+                "artist": "Tokyo Flamingo",
+                "detail": "null"
+            },
+            {
+                "start": "1510",
+                "end": "1525",
+                "artist": "TIF×アイドル甲子園",
+                "detail": "我儘ラキア<br>■ブルー■"
+            },
+            {
+                "start": "1525",
+                "end": "1540",
+                "artist": "TIF×アイドル甲子園",
+                "detail": "あそびダンジョン<br>■ブルー■"
+            },
+            {
+                "start": "1545",
+                "end": "1600",
+                "artist": "HelloYouth",
+                "detail": "null"
+            },
+            {
+                "start": "1600",
+                "end": "1615",
+                "artist": "Siam☆Dream",
+                "detail": "null"
+            },
+            {
+                "start": "1615",
+                "end": "1630",
+                "artist": "SUPER☆GiRLS",
+                "detail": "null"
+            },
+            {
+                "start": "1630",
+                "end": "1645",
+                "artist": "原駅ステージA",
+                "detail": "null"
+            },
+            {
+                "start": "1655",
+                "end": "1710",
+                "artist": "RYUTist",
+                "detail": "null"
+            },
+            {
+                "start": "1710",
+                "end": "1725",
+                "artist": "WT☆Egret",
+                "detail": "null"
+            },
+            {
+                "start": "1725",
+                "end": "1740",
+                "artist": "OBP",
+                "detail": "null"
+            },
+            {
+                "start": "1740",
+                "end": "1755",
+                "artist": "MELLOW MELLOW",
+                "detail": "null"
+            },
+            {
+                "start": "1800",
+                "end": "1815",
+                "artist": "はちみつロケット",
+                "detail": "null"
+            },
+            {
+                "start": "1815",
+                "end": "1830",
+                "artist": "真っ白なキャンバス",
+                "detail": "null"
+            },
+            {
+                "start": "1830",
+                "end": "1845",
+                "artist": "IVOLVE",
+                "detail": "null"
+            }
+        ],
+        "DREAM STAGE": [
+            {
+                "start": "1000",
+                "end": "1020",
+                "artist": "風男塾",
+                "detail": "null"
+            },
+            {
+                "start": "1020",
+                "end": "1040",
+                "artist": "全力少女R",
+                "detail": "null"
+            },
+            {
+                "start": "1040",
+                "end": "1100",
+                "artist": "鶯籠",
+                "detail": "null"
+            },
+            {
+                "start": "1110",
+                "end": "1150",
+                "artist": "スターダストプラネット スペシャルステージ",
+                "detail": "はちみつロケット／アメフラっシ／and more<br>■ブルー■"
+            },
+            {
+                "start": "1200",
+                "end": "1220",
+                "artist": "Lily of the valley",
+                "detail": "null"
+            },
+            {
+                "start": "1220",
+                "end": "1240",
+                "artist": "Devil ANTHEM.",
+                "detail": "null"
+            },
+            {
+                "start": "1240",
+                "end": "1300",
+                "artist": "メイビーME",
+                "detail": "null"
+            },
+            {
+                "start": "1305",
+                "end": "1325",
+                "artist": "原駅ステージA",
+                "detail": "null"
+            },
+            {
+                "start": "1325",
+                "end": "1345",
+                "artist": "絶対直球女子！プレイボールズ ",
+                "detail": "null"
+            },
+            {
+                "start": "1345",
+                "end": "1405",
+                "artist": "chuLa",
+                "detail": "null"
+            },
+            {
+                "start": "1420",
+                "end": "1440",
+                "artist": "22/7",
+                "detail": "null"
+            },
+            {
+                "start": "1440",
+                "end": "1500",
+                "artist": "虹のコンキスタドール",
+                "detail": "null"
+            },
+            {
+                "start": "1500",
+                "end": "1520",
+                "artist": "A応P",
+                "detail": "null"
+            },
+            {
+                "start": "1525",
+                "end": "1545",
+                "artist": "CROWN POP",
+                "detail": "null"
+            },
+            {
+                "start": "1545",
+                "end": "1605",
+                "artist": "Jewel☆Ciel",
+                "detail": "null"
+            },
+            {
+                "start": "1605",
+                "end": "1625",
+                "artist": "＝LOVE",
+                "detail": "null"
+            },
+            {
+                "start": "1635",
+                "end": "1655",
+                "artist": "原田珠々華",
+                "detail": "null"
+            },
+            {
+                "start": "1655",
+                "end": "1715",
+                "artist": "Chuning Candy",
+                "detail": "null"
+            },
+            {
+                "start": "1715",
+                "end": "1735",
+                "artist": "kolme",
+                "detail": "null"
+            },
+            {
+                "start": "1740",
+                "end": "1800",
+                "artist": "WHY@DOLL",
+                "detail": "null"
+            },
+            {
+                "start": "1800",
+                "end": "1820",
+                "artist": "Fullfull Pocket",
+                "detail": "null"
+            },
+            {
+                "start": "1820",
+                "end": "1840",
+                "artist": "アイドルカレッジ",
+                "detail": "null"
+            },
+            {
+                "start": "1840",
+                "end": "1900",
+                "artist": "ときめき♡宣伝部",
+                "detail": "null"
+            },
+            {
+                "start": "1910",
+                "end": "1930",
+                "artist": "バンドじゃないもん！MAXX NAKAYOSHI",
+                "detail": "null"
             },
             {
                 "start": "1930",
                 "end": "1950",
-                "artist": "夢みるアドレセンス",
+                "artist": "DREAMING MONSTER",
                 "detail": "null"
             },
             {
@@ -1786,335 +2156,7 @@
             {
                 "start": "2010",
                 "end": "2030",
-                "artist": "まねきケチャ",
-                "detail": "null"
-            }
-        ],
-        "FESTIVAL STAGE": [
-            {
-                "start": "1000",
-                "end": "1015",
-                "artist": "Yamakatsu",
-                "detail": "null"
-            },
-            {
-                "start": "1015",
-                "end": "1030",
-                "artist": "ティーンズ☆ヘブン",
-                "detail": "null"
-            },
-            {
-                "start": "1030",
-                "end": "1045",
-                "artist": "Lovelys",
-                "detail": "null"
-            },
-            {
-                "start": "1045",
-                "end": "1100",
-                "artist": "ハッピーくるくる",
-                "detail": "null"
-            },
-            {
-                "start": "1105",
-                "end": "1120",
-                "artist": "Sola Sound",
-                "detail": "null"
-            },
-            {
-                "start": "1120",
-                "end": "1135",
-                "artist": "フルーティー",
-                "detail": "null"
-            },
-            {
-                "start": "1135",
-                "end": "1150",
-                "artist": "空野青空",
-                "detail": "null"
-            },
-            {
-                "start": "1150",
-                "end": "1205",
-                "artist": "『インキーウップス』",
-                "detail": "null"
-            },
-            {
-                "start": "1215",
-                "end": "1230",
-                "artist": "DREAMING MONSTER",
-                "detail": "null"
-            },
-            {
-                "start": "1230",
-                "end": "1245",
-                "artist": "あっとせぶんてぃーん",
-                "detail": "null"
-            },
-            {
-                "start": "1245",
-                "end": "1300",
-                "artist": "A応P",
-                "detail": "null"
-            },
-            {
-                "start": "1300",
-                "end": "1315",
-                "artist": "ROSARIO+CROSS",
-                "detail": "null"
-            },
-            {
-                "start": "1320",
-                "end": "1335",
-                "artist": "ネコプラ",
-                "detail": "null"
-            },
-            {
-                "start": "1335",
-                "end": "1350",
-                "artist": "Chu☆Oh!Dolly",
-                "detail": "null"
-            },
-            {
-                "start": "1350",
-                "end": "1405",
-                "artist": "上月せれな",
-                "detail": "null"
-            },
-            {
-                "start": "1405",
-                "end": "1420",
-                "artist": "SPRING CHUBIT",
-                "detail": "null"
-            },
-            {
-                "start": "1430",
-                "end": "1505",
-                "artist": "TIFxアイドル 甲子園　Day2",
-                "detail": "パピマシェ<br>ヲルタナティヴ"
-            },
-            {
-                "start": "1505",
-                "end": "1520",
-                "artist": "あそびダンジョン",
-                "detail": "null"
-            },
-            {
-                "start": "1520",
-                "end": "1535",
-                "artist": "Party Rockets GT",
-                "detail": "null"
-            },
-            {
-                "start": "1540",
-                "end": "1555",
-                "artist": "AIS‐All Idol Songs- ",
-                "detail": "null"
-            },
-            {
-                "start": "1555",
-                "end": "1610",
-                "artist": "まぜるなきけん",
-                "detail": "null"
-            },
-            {
-                "start": "1610",
-                "end": "1625",
-                "artist": "Shine Fine Movement",
-                "detail": "null"
-            },
-            {
-                "start": "1625",
-                "end": "1640",
-                "artist": "RYUTist",
-                "detail": "null"
-            },
-            {
-                "start": "1650",
-                "end": "1705",
-                "artist": "KOTO",
-                "detail": "null"
-            },
-            {
-                "start": "1705",
-                "end": "1720",
-                "artist": "大宮I☆DOLL",
-                "detail": "null"
-            },
-            {
-                "start": "1720",
-                "end": "1735",
-                "artist": "CHERRSEE",
-                "detail": "null"
-            },
-            {
-                "start": "1735",
-                "end": "1750",
-                "artist": "フルーレット",
-                "detail": "null"
-            },
-            {
-                "start": "1755",
-                "end": "1810",
                 "artist": "神使轟く、激情の如く。 ",
-                "detail": "null"
-            },
-            {
-                "start": "1810",
-                "end": "1825",
-                "artist": "KAMOがネギをしょってくるッ!!!",
-                "detail": "null"
-            },
-            {
-                "start": "1825",
-                "end": "1840",
-                "artist": "26時のマスカレイド",
-                "detail": "null"
-            }
-        ],
-        "DREAM STAGE": [
-            {
-                "start": "1100",
-                "end": "1120",
-                "artist": "lyrical school",
-                "detail": "null"
-            },
-            {
-                "start": "1120",
-                "end": "1140",
-                "artist": "2o Love to Sweet Bullet",
-                "detail": "null"
-            },
-            {
-                "start": "1140",
-                "end": "1200",
-                "artist": "なんキニ！",
-                "detail": "null"
-            },
-            {
-                "start": "1200",
-                "end": "1220",
-                "artist": "ベボガ！",
-                "detail": "null"
-            },
-            {
-                "start": "1225",
-                "end": "1345",
-                "artist": "TIF2018全国選抜LIVE 優勝者 お披露目ステージ",
-                "detail": "純粋カフェ・ラッテ<br>九州女子翼<br>まぜるなきけん<br>フルーレット<br>２代目HAPPY少女♪<br>Gallop+<br>大宮I☆DOLL"
-            },
-            {
-                "start": "1355",
-                "end": "1415",
-                "artist": "たけやま3.5",
-                "detail": "null"
-            },
-            {
-                "start": "1415",
-                "end": "1435",
-                "artist": "X21",
-                "detail": "null"
-            },
-            {
-                "start": "1435",
-                "end": "1455",
-                "artist": "3B junior",
-                "detail": "null"
-            },
-            {
-                "start": "1455",
-                "end": "1515",
-                "artist": "＝LOVE",
-                "detail": "null"
-            },
-            {
-                "start": "1525",
-                "end": "1545",
-                "artist": "Mi☆nA",
-                "detail": "null"
-            },
-            {
-                "start": "1545",
-                "end": "1605",
-                "artist": "A応P",
-                "detail": "null"
-            },
-            {
-                "start": "1605",
-                "end": "1625",
-                "artist": "ザ・フーパーズ",
-                "detail": "null"
-            },
-            {
-                "start": "1625",
-                "end": "1645",
-                "artist": "ナナランド",
-                "detail": "null"
-            },
-            {
-                "start": "1650",
-                "end": "1710",
-                "artist": "天晴れ！原宿",
-                "detail": "null"
-            },
-            {
-                "start": "1710",
-                "end": "1730",
-                "artist": "寺嶋由芙",
-                "detail": "null"
-            },
-            {
-                "start": "1730",
-                "end": "1745",
-                "artist": "シュークリームロケッツ",
-                "detail": "null"
-            },
-            {
-                "start": "1745",
-                "end": "1800",
-                "artist": "Road to TIF 3位",
-                "detail": "Púca"
-            },
-            {
-                "start": "1800",
-                "end": "1820",
-                "artist": "Maison book girl",
-                "detail": "null"
-            },
-            {
-                "start": "1830",
-                "end": "1850",
-                "artist": "IVOLVE",
-                "detail": "null"
-            },
-            {
-                "start": "1850",
-                "end": "1910",
-                "artist": "EMPiRE",
-                "detail": "null"
-            },
-            {
-                "start": "1910",
-                "end": "1930",
-                "artist": "NEO JAPONISM",
-                "detail": "null"
-            },
-            {
-                "start": "1935",
-                "end": "1955",
-                "artist": "ときめき♡宣伝部",
-                "detail": "null"
-            },
-            {
-                "start": "1955",
-                "end": "2015",
-                "artist": "つりビット",
-                "detail": "null"
-            },
-            {
-                "start": "2015",
-                "end": "2035",
-                "artist": "愛乙女☆DOLL",
                 "detail": "null"
             }
         ],
@@ -2122,231 +2164,237 @@
             {
                 "start": "1100",
                 "end": "1250",
-                "artist": "アームレスリング大会  powerd by TOWER RECORDS ザ・感謝祭 予選",
-                "detail": "※４　出演者は下記に記載"
+                "artist": "TIF2019アームレスリング大会  powerd by TOWER RECORDS ザ・感謝祭 予選",
+                "detail": "null"
             },
             {
                 "start": "1300",
-                "end": "1350",
-                "artist": "TIF2018アザーレコメンドLIVE WINNERトークステージ",
-                "detail": "tipToe.<br>あそびダンジョン<br>会心ノ一撃<br>"
+                "end": "1330",
+                "artist": "全国選抜ライブ優勝者トークステージ",
+                "detail": "littlemore.／WT☆Egret／JOY VAN CREW／Tokyo Flamingo／手羽先センセーション"
             },
             {
-                "start": "1415",
-                "end": "1505",
-                "artist": "TIF2018アイドルクイズ王決定戦",
-                "detail": "浅野杏奈(マジカル・パンチライン)<br>ゆりな(ネコプラ)<br>飯田結万(純粋カフェ・ラッテ)<br>寺嶋由芙<br>冨田樹梨亜(アイドルカレッジ)<br><br>司会 吉田尚記(ニッポン放送)<br>作問・正誤判定 古川洋平(クイズ法人カプリティオ)"
+                "start": "1340",
+                "end": "1420",
+                "artist": "TIF×フジフイルム　「アイドル女流写真家No.1決定戦」優勝決定ステージ",
+                "detail": "アンナ（純情のアフィリア）／石川野乃花 （きゃわふるTORNADO）／江嶋綾恵梨 （26時のマスカレイド）／大場花菜 （=LOVE）／宮丸くるみ （Lily of the valley）"
             },
             {
-                "start": "1515",
-                "end": "1545",
-                "artist": "楽天チケットスペシャルステージ",
-                "detail": "ＭＣ：クロちゃん（安田大サーカス）<br><br>天晴れ！原宿"
+                "start": "1545",
+                "end": "1615",
+                "artist": "全国選抜ライブ優勝者トークステージ",
+                "detail": "きゃわふるTORNADO／REBIRTH／Re:Clash／feelNEO／フルーティー"
             },
             {
-                "start": "1555",
-                "end": "1625",
-                "artist": "スーパーファンタジー  TIF2018スペシャルステージ",
-                "detail": "null"
-            },
-            {
-                "start": "1635",
-                "end": "1705",
-                "artist": "TOKYO GRAVURE IDOL FESTIVAL 2018 トークの部 DAY２",
-                "detail": "null"
-            },
-            {
-                "start": "1740",
-                "end": "1840",
-                "artist": "アイドルカラオケバトル2018",
+                "start": "1630",
+                "end": "1730",
+                "artist": "アイドルカラオケバトル2019",
                 "detail": "null"
             },
             {
                 "start": "1900",
                 "end": "2100",
-                "artist": "スナックうめ子2018夏 〜今年もいろいろあるよねー〜",
-                "detail": "MC：河村唯<br><br>酒井瞳"
+                "artist": "スナックうめ子2019夏",
+                "detail": "null"
             }
         ],
         "FUJI YOKO STAGE": [
             {
-                "start": "1105",
-                "end": "1120",
-                "artist": "SPRING CHUBIT",
+                "start": "1030",
+                "end": "1045",
+                "artist": "SAY-LA",
                 "detail": "null"
             },
             {
-                "start": "1120",
-                "end": "1135",
-                "artist": "AIS‐All Idol Songs- ",
+                "start": "1045",
+                "end": "1100",
+                "artist": "MELLOW MELLOW",
+                "detail": "null"
+            },
+            {
+                "start": "1100",
+                "end": "1115",
+                "artist": "ミルクス本物",
+                "detail": "null"
+            },
+            {
+                "start": "1115",
+                "end": "1130",
+                "artist": "RIOT BABY",
                 "detail": "null"
             },
             {
                 "start": "1135",
                 "end": "1150",
-                "artist": "KOTO",
+                "artist": "ENGAG.ING",
                 "detail": "null"
             },
             {
                 "start": "1150",
                 "end": "1205",
-                "artist": "CHERRSEE",
+                "artist": "Tokyo Flamingo",
                 "detail": "null"
             },
             {
-                "start": "1215",
-                "end": "1230",
-                "artist": "Road to TIF 6位",
-                "detail": "ハラ塾DREAMMATE"
-            },
-            {
-                "start": "1230",
-                "end": "1245",
-                "artist": "Mi☆nA",
+                "start": "1205",
+                "end": "1220",
+                "artist": "君の隣のラジかるん",
                 "detail": "null"
             },
             {
-                "start": "1245",
-                "end": "1300",
-                "artist": "ティーンズ☆ヘブン",
-                "detail": "null"
-            },
-            {
-                "start": "1300",
-                "end": "1315",
-                "artist": "東京CLEAR’S SMILE",
-                "detail": "null"
-            },
-            {
-                "start": "1320",
-                "end": "1335",
+                "start": "1220",
+                "end": "1235",
                 "artist": "RYUTist",
                 "detail": "null"
             },
             {
-                "start": "1335",
-                "end": "1350",
+                "start": "1255",
+                "end": "1310",
                 "artist": "PINKYCASE",
+                "detail": "null"
+            },
+            {
+                "start": "1310",
+                "end": "1325",
+                "artist": "BenjaminJasmine",
+                "detail": "null"
+            },
+            {
+                "start": "1325",
+                "end": "1340",
+                "artist": "Payrin's",
                 "detail": "null"
             },
             {
                 "start": "1350",
                 "end": "1405",
-                "artist": "uijin",
+                "artist": "Mi☆nA",
                 "detail": "null"
             },
             {
                 "start": "1405",
                 "end": "1420",
-                "artist": "Yamakatsu",
+                "artist": "桜エビ〜ず",
                 "detail": "null"
             },
             {
-                "start": "1430",
-                "end": "1445",
-                "artist": "シンセカイセン",
+                "start": "1420",
+                "end": "1435",
+                "artist": "Chu☆Oh!Dolly",
                 "detail": "null"
             },
             {
-                "start": "1445",
-                "end": "1500",
-                "artist": "Sola Sound",
+                "start": "1435",
+                "end": "1450",
+                "artist": "SOL",
                 "detail": "null"
             },
             {
-                "start": "1500",
-                "end": "1515",
-                "artist": "ハコイリ♡ムスメ",
+                "start": "1455",
+                "end": "1510",
+                "artist": "Jewel☆Neige",
                 "detail": "null"
             },
             {
-                "start": "1515",
-                "end": "1530",
-                "artist": "アキシブproject",
+                "start": "1510",
+                "end": "1525",
+                "artist": "JOY VAN CREW",
                 "detail": "null"
             },
             {
-                "start": "1535",
-                "end": "1550",
-                "artist": "二丁目の魁カミングアウト",
+                "start": "1525",
+                "end": "1540",
+                "artist": "ASTROMATE",
                 "detail": "null"
             },
             {
-                "start": "1550",
-                "end": "1605",
-                "artist": "ハッピーくるくる",
+                "start": "1540",
+                "end": "1555",
+                "artist": "かみやど",
                 "detail": "null"
             },
             {
-                "start": "1605",
-                "end": "1620",
-                "artist": "ココロモヨヲ",
+                "start": "1600",
+                "end": "1615",
+                "artist": "じゅじゅ",
                 "detail": "null"
             },
             {
-                "start": "1620",
-                "end": "1635",
-                "artist": "いぎなり東北産",
+                "start": "1615",
+                "end": "1630",
+                "artist": "Malcolm Mask McLaren",
+                "detail": "null"
+            },
+            {
+                "start": "1630",
+                "end": "1645",
+                "artist": "絵恋ちゃん",
                 "detail": "null"
             },
             {
                 "start": "1645",
                 "end": "1700",
-                "artist": "Q-pitch",
+                "artist": "ael -アエル-",
                 "detail": "null"
             },
             {
-                "start": "1700",
-                "end": "1715",
-                "artist": "パピロジェ",
+                "start": "1710",
+                "end": "1725",
+                "artist": "大野姉妹 with カネハマヒカリ",
                 "detail": "null"
             },
             {
-                "start": "1715",
-                "end": "1730",
-                "artist": "Pimm’s",
-                "detail": "null"
-            },
-            {
-                "start": "1730",
-                "end": "1745",
-                "artist": "じゅじゅ",
-                "detail": "null"
-            },
-            {
-                "start": "1805",
-                "end": "1820",
-                "artist": "フルーティー",
-                "detail": "null"
-            },
-            {
-                "start": "1820",
-                "end": "1835",
-                "artist": "空野青空",
-                "detail": "null"
-            },
-            {
-                "start": "1835",
-                "end": "1850",
+                "start": "1725",
+                "end": "1740",
                 "artist": "上月せれな",
                 "detail": "null"
             },
             {
-                "start": "1900",
-                "end": "1915",
-                "artist": "我儘ラキア",
+                "start": "1740",
+                "end": "1755",
+                "artist": "パクスプエラ",
                 "detail": "null"
             },
             {
-                "start": "1915",
-                "end": "1930",
-                "artist": "Luce Twinkle Wink☆",
+                "start": "1755",
+                "end": "1810",
+                "artist": "Road to TIF 6位",
                 "detail": "null"
             },
             {
-                "start": "1930",
-                "end": "1945",
-                "artist": "DREAMING MONSTER",
+                "start": "1815",
+                "end": "1830",
+                "artist": "KATA☆CHU",
+                "detail": "null"
+            },
+            {
+                "start": "1830",
+                "end": "1845",
+                "artist": "九州女子翼",
+                "detail": "null"
+            },
+            {
+                "start": "1845",
+                "end": "1900",
+                "artist": "手羽先センセーション",
+                "detail": "null"
+            },
+            {
+                "start": "1905",
+                "end": "1920",
+                "artist": "HelloYouth",
+                "detail": "null"
+            },
+            {
+                "start": "1920",
+                "end": "1935",
+                "artist": "クマリデパート",
+                "detail": "null"
+            },
+            {
+                "start": "1935",
+                "end": "1950",
+                "artist": "Yamakatsu",
                 "detail": "null"
             }
         ]
@@ -2356,267 +2404,255 @@
             {
                 "start": "1000",
                 "end": "1035",
-                "artist": "スペシャルファンミーティングステージ (Tシャツ購入者限定ステージ)",
-                "detail": "HKT48<br>はちみつロケット<br>まねきケチャ"
+                "artist": "スペシャルファンミーティングステージ (Tシャツ購入者限定ステージ)　Day3",
+                "detail": "天晴れ！原宿／uijin／まねきケチャ<br>■ブルー■"
             },
             {
-                "start": "1050",
-                "end": "1120",
+                "start": "1055",
+                "end": "1115",
+                "artist": "えのぐ",
+                "detail": "null"
+            },
+            {
+                "start": "1120",
+                "end": "1150",
                 "artist": "SKE48",
                 "detail": "null"
             },
             {
-                "start": "1125",
-                "end": "1155",
-                "artist": "NGT48",
-                "detail": "null"
-            },
-            {
-                "start": "1200",
-                "end": "1230",
-                "artist": "原駅ステージA",
+                "start": "1155",
+                "end": "1225",
+                "artist": "monogatari",
                 "detail": "null"
             },
             {
                 "start": "1230",
                 "end": "1300",
-                "artist": "ラストアイドルファミリー",
-                "detail": "※１　出演者は下記に記載"
+                "artist": "GANG PARADE",
+                "detail": "null"
             },
             {
-                "start": "1310",
-                "end": "1340",
-                "artist": "大阪☆春夏秋冬",
+                "start": "1305",
+                "end": "1335",
+                "artist": "CYBERJAPAN DANCERS",
                 "detail": "null"
             },
             {
                 "start": "1340",
                 "end": "1410",
-                "artist": "26時のマスカレイド",
+                "artist": "わーすた",
                 "detail": "null"
             },
             {
-                "start": "1410",
-                "end": "1430",
-                "artist": "TIF2018メインステージ争奪LIVE WINNERステージ",
+                "start": "1420",
+                "end": "1450",
+                "artist": "虹のコンキスタドール",
                 "detail": "null"
             },
             {
-                "start": "1435",
-                "end": "1505",
-                "artist": "9nine",
+                "start": "1455",
+                "end": "1515",
+                "artist": "TIFメインステージ争奪LIVE WINNERステージ",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1520",
+                "end": "1550",
+                "artist": "こぶしファクトリー",
                 "detail": "null"
             },
             {
-                "start": "1525",
-                "end": "1555",
-                "artist": "ベッド・イン",
+                "start": "1600",
+                "end": "1700",
+                "artist": "公開収録「この指と～まれ！season3 in TIF2019」",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1710",
+                "end": "1740",
+                "artist": "EMPiRE",
                 "detail": "null"
             },
             {
-                "start": "1605",
-                "end": "1635",
-                "artist": "Negicco",
-                "detail": "null"
-            },
-            {
-                "start": "1640",
-                "end": "1710",
-                "artist": "神宿",
-                "detail": "null"
-            },
-            {
-                "start": "1715",
-                "end": "1745",
-                "artist": "東京女子流 with 大原優乃",
-                "detail": "null"
-            },
-            {
-                "start": "1750",
-                "end": "1820",
+                "start": "1745",
+                "end": "1815",
                 "artist": "まねきケチャ",
                 "detail": "null"
             },
             {
-                "start": "1825",
-                "end": "1855",
-                "artist": "PASSPO☆",
+                "start": "1820",
+                "end": "1850",
+                "artist": "さくら学院",
                 "detail": "null"
             },
             {
-                "start": "1900",
-                "end": "1930",
-                "artist": "HKT48",
+                "start": "1855",
+                "end": "1925",
+                "artist": "AKB48 TIF2019選抜",
                 "detail": "null"
             },
             {
                 "start": "1930",
-                "end": "2000",
-                "artist": "グランドフィナーレ",
-                "detail": "null"
-            },
-            {
-                "start": "2000",
                 "end": "2030",
-                "artist": "アフターパーティー",
-                "detail": "null"
+                "artist": "TIF10周年記念　グランドフィナーレ",
+                "detail": "■ピンク■"
             }
         ],
         "DOLL FACTORY": [
             {
                 "start": "1000",
                 "end": "1015",
-                "artist": "煌めき☆アンフォレント ",
+                "artist": "われらがプワプワプーワプワ ",
                 "detail": "null"
             },
             {
                 "start": "1015",
                 "end": "1030",
-                "artist": "サクヤコノハナ",
+                "artist": "ラストアイドル2期生アンダー",
                 "detail": "null"
             },
             {
                 "start": "1030",
                 "end": "1045",
-                "artist": "まぜるなきけん",
+                "artist": "サンダルテレフォン",
                 "detail": "null"
             },
             {
                 "start": "1045",
                 "end": "1100",
-                "artist": "Shine Fine Movement",
+                "artist": "Q-pitch",
                 "detail": "null"
             },
             {
                 "start": "1105",
                 "end": "1120",
-                "artist": "HIGH SPIRITS",
+                "artist": "撲我さくら",
                 "detail": "null"
             },
             {
                 "start": "1120",
                 "end": "1135",
-                "artist": "Road to TIF 4位",
-                "detail": "Jewel☆Neige"
+                "artist": "ヤなことそっとミュート",
+                "detail": "null"
             },
             {
                 "start": "1135",
                 "end": "1150",
-                "artist": "ナナランド",
+                "artist": "鶯籠",
                 "detail": "null"
             },
             {
                 "start": "1200",
                 "end": "1300",
-                "artist": "週刊プレイボーイ presents “ナツ☆イチ！ オーディション2018”",
-                "detail": "転校少女*<br>２代目HAPPY少女♪<br>たけやま３．５<br>Shine Fine Movement<br><br>ゲスト：フィロソフィーのダンス<br><br>MC：ユリオカ超特Q<br>　 　奥津マリリ（フィロソフィーのダンス）<br>"
+                "artist": "週刊プレイボーイ presents “ナツ☆イチ！ オーディション2019”",
+                "detail": "MC：塩川莉世 （転校少女*）　<br>出演：大野姉妹 with カネハマヒカリ／SKOOL GIRL BYE BYE／ナナランド／FES☆TIVE<br>■ブルー■"
             },
             {
-                "start": "1315",
-                "end": "1330",
-                "artist": "LinQ",
+                "start": "1305",
+                "end": "1320",
+                "artist": "二丁目の魁カミングアウト",
                 "detail": "null"
             },
             {
-                "start": "1330",
-                "end": "1345",
-                "artist": "sora tob sakana",
+                "start": "1320",
+                "end": "1335",
+                "artist": "STU48",
+                "detail": "勝手に!四国観光大使"
+            },
+            {
+                "start": "1335",
+                "end": "1405",
+                "artist": "NEO from アイドリング!!!",
                 "detail": "null"
             },
             {
-                "start": "1350",
-                "end": "1425",
-                "artist": "MIX FORTUNE LIVE",
-                "detail": "煌めき☆アンフォレント<br>サンスポアイドルリポーター SIR"
+                "start": "1415",
+                "end": "1525",
+                "artist": "はまぐちコントサークル in TIF2019",
+                "detail": "■ブルー■"
             },
             {
-                "start": "1430",
-                "end": "1445",
-                "artist": "＝LOVE",
+                "start": "1535",
+                "end": "1550",
+                "artist": "たけやま3.5",
                 "detail": "null"
             },
             {
-                "start": "1445",
-                "end": "1500",
-                "artist": "Road to TIF 1位",
-                "detail": "QunQun"
-            },
-            {
-                "start": "1500",
-                "end": "1515",
-                "artist": "はちみつロケット",
+                "start": "1550",
+                "end": "1605",
+                "artist": "東京女子流",
                 "detail": "null"
             },
             {
-                "start": "1525",
-                "end": "1615",
-                "artist": "はまぐちコントサークル in TIF2018",
+                "start": "1605",
+                "end": "1620",
+                "artist": "Chuning Candy",
                 "detail": "null"
             },
             {
-                "start": "1630",
-                "end": "1645",
-                "artist": "CROWN POP",
+                "start": "1620",
+                "end": "1635",
+                "artist": "新しい学校のリーダーズ",
                 "detail": "null"
             },
             {
-                "start": "1645",
-                "end": "1700",
-                "artist": "ディア☆+ENGAG.ING from 秋葉原ディアステージ",
+                "start": "1640",
+                "end": "1655",
+                "artist": "LaLuce",
                 "detail": "null"
             },
             {
-                "start": "1700",
-                "end": "1715",
-                "artist": "あそびダンジョン",
+                "start": "1655",
+                "end": "1705",
+                "artist": "Road to TIF 2位",
+                "detail": "null"
+            },
+            {
+                "start": "1705",
+                "end": "1720",
+                "artist": "READY TO KISS",
                 "detail": "null"
             },
             {
                 "start": "1720",
                 "end": "1735",
-                "artist": "神使轟く、激情の如く。 ",
+                "artist": "Yamakatsu",
                 "detail": "null"
             },
             {
-                "start": "1735",
-                "end": "1750",
-                "artist": "BILLIE IDLE®",
+                "start": "1740",
+                "end": "1755",
+                "artist": "ASTROMATE",
                 "detail": "null"
             },
             {
-                "start": "1750",
-                "end": "1805",
-                "artist": "IVOLVE",
+                "start": "1755",
+                "end": "1810",
+                "artist": "きゃわふるTORNADO",
                 "detail": "null"
             },
             {
-                "start": "1805",
-                "end": "1820",
-                "artist": "劇場版ゴキゲン帝国",
+                "start": "1810",
+                "end": "1825",
+                "artist": "Love Cocchi",
                 "detail": "null"
             },
             {
-                "start": "1825",
-                "end": "1840",
-                "artist": "THERE THERE THERES",
+                "start": "1830",
+                "end": "1845",
+                "artist": "uijin",
                 "detail": "null"
             },
             {
-                "start": "1840",
-                "end": "1855",
-                "artist": "全力少女R",
+                "start": "1845",
+                "end": "1900",
+                "artist": "FES☆TIVE",
                 "detail": "null"
             },
             {
-                "start": "1855",
-                "end": "1910",
-                "artist": "NEO JAPONISM",
-                "detail": "null"
-            },
-            {
-                "start": "1910",
-                "end": "1925",
-                "artist": "純情のアフィリア",
+                "start": "1900",
+                "end": "1920",
+                "artist": "神宿",
                 "detail": "null"
             }
         ],
@@ -2624,175 +2660,181 @@
             {
                 "start": "1030",
                 "end": "1045",
-                "artist": "A応P",
+                "artist": "PiXMiX",
                 "detail": "null"
             },
             {
                 "start": "1045",
                 "end": "1100",
-                "artist": "大宮I☆DOLL",
+                "artist": "パンダみっく",
                 "detail": "null"
             },
             {
                 "start": "1100",
                 "end": "1115",
-                "artist": "ネコプラ",
-                "detail": "null"
+                "artist": "STU48",
+                "detail": "Charming Trip"
             },
             {
                 "start": "1115",
                 "end": "1130",
-                "artist": "純粋カフェ･ラッテ",
+                "artist": "アメフラっシ",
                 "detail": "null"
             },
             {
-                "start": "1130",
-                "end": "1145",
-                "artist": "ゑんら",
+                "start": "1135",
+                "end": "1150",
+                "artist": "クマリデパート",
                 "detail": "null"
             },
             {
                 "start": "1150",
                 "end": "1205",
-                "artist": "空野青空",
+                "artist": "WT☆Egret",
                 "detail": "null"
             },
             {
                 "start": "1205",
                 "end": "1220",
-                "artist": "フルーレット",
+                "artist": "BILLIE IDLE®",
                 "detail": "null"
             },
             {
                 "start": "1220",
                 "end": "1235",
-                "artist": "あっとせぶんてぃーん",
+                "artist": "Good Tears",
                 "detail": "null"
             },
             {
-                "start": "1235",
-                "end": "1250",
-                "artist": "アイドルカレッジ",
+                "start": "1240",
+                "end": "1255",
+                "artist": "ハコイリ♡ムスメ",
                 "detail": "null"
             },
             {
-                "start": "1250",
-                "end": "1305",
-                "artist": "＝LOVE",
+                "start": "1255",
+                "end": "1310",
+                "artist": "メイビーME",
                 "detail": "null"
             },
             {
-                "start": "1405",
-                "end": "1420",
-                "artist": "二丁目の魁カミングアウト",
+                "start": "1310",
+                "end": "1330",
+                "artist": "さくら学院",
                 "detail": "null"
             },
             {
-                "start": "1420",
-                "end": "1435",
-                "artist": "uijin",
-                "detail": "null"
-            },
-            {
-                "start": "1435",
-                "end": "1450",
-                "artist": "RIOT BABY",
-                "detail": "null"
-            },
-            {
-                "start": "1450",
-                "end": "1505",
-                "artist": "Task have Fun",
-                "detail": "null"
-            },
-            {
-                "start": "1510",
-                "end": "1525",
-                "artist": "虹のコンキスタドール",
-                "detail": "null"
-            },
-            {
-                "start": "1525",
-                "end": "1540",
-                "artist": "ときめき♡宣伝部",
-                "detail": "null"
-            },
-            {
-                "start": "1540",
-                "end": "1555",
-                "artist": " Jewel☆Rouge",
-                "detail": "null"
-            },
-            {
-                "start": "1555",
-                "end": "1610",
-                "artist": "純情のアフィリア",
-                "detail": "null"
-            },
-            {
-                "start": "1620",
-                "end": "1635",
-                "artist": "原宿駅前パーティーズNEXT",
-                "detail": "null"
-            },
-            {
-                "start": "1635",
-                "end": "1650",
-                "artist": "PiiiiiiiN",
-                "detail": "null"
-            },
-            {
-                "start": "1650",
-                "end": "1705",
-                "artist": "パンダみっく",
-                "detail": "null"
-            },
-            {
-                "start": "1705",
-                "end": "1720",
-                "artist": "なんキニ！",
-                "detail": "null"
-            },
-            {
-                "start": "1725",
-                "end": "1740",
-                "artist": "マジカル・パンチライン",
-                "detail": "null"
-            },
-            {
-                "start": "1740",
-                "end": "1755",
-                "artist": "3B junior",
-                "detail": "null"
-            },
-            {
-                "start": "1755",
-                "end": "1810",
-                "artist": "Yamakatsu",
-                "detail": "null"
-            },
-            {
-                "start": "1810",
-                "end": "1825",
-                "artist": "Ange☆Reve",
-                "detail": "null"
-            },
-            {
-                "start": "1830",
-                "end": "1850",
-                "artist": "amiinA",
-                "detail": "null"
-            },
-            {
-                "start": "1850",
-                "end": "1910",
+                "start": "1410",
+                "end": "1425",
                 "artist": "predia",
                 "detail": "null"
             },
             {
-                "start": "1910",
-                "end": "1930",
-                "artist": "Negicco",
+                "start": "1425",
+                "end": "1440",
+                "artist": "REBIRTH",
+                "detail": "null"
+            },
+            {
+                "start": "1440",
+                "end": "1455",
+                "artist": "RYUTist",
+                "detail": "null"
+            },
+            {
+                "start": "1455",
+                "end": "1510",
+                "artist": "feelNEO",
+                "detail": "null"
+            },
+            {
+                "start": "1515",
+                "end": "1530",
+                "artist": "バンドじゃないもん！MAXX NAKAYOSHI",
+                "detail": "null"
+            },
+            {
+                "start": "1530",
+                "end": "1545",
+                "artist": "WILL-O'",
+                "detail": "null"
+            },
+            {
+                "start": "1545",
+                "end": "1600",
+                "artist": "Devil ANTHEM.",
+                "detail": "null"
+            },
+            {
+                "start": "1600",
+                "end": "1615",
+                "artist": "校庭カメラアクトレス",
+                "detail": "null"
+            },
+            {
+                "start": "1625",
+                "end": "1640",
+                "artist": "アイドルカレッジ",
+                "detail": "null"
+            },
+            {
+                "start": "1640",
+                "end": "1655",
+                "artist": "CYNHN",
+                "detail": "null"
+            },
+            {
+                "start": "1655",
+                "end": "1710",
+                "artist": "kolme",
+                "detail": "null"
+            },
+            {
+                "start": "1710",
+                "end": "1725",
+                "artist": "MELLOW MELLOW",
+                "detail": "null"
+            },
+            {
+                "start": "1730",
+                "end": "1745",
+                "artist": "原田珠々華",
+                "detail": "null"
+            },
+            {
+                "start": "1745",
+                "end": "1800",
+                "artist": "まなみのりさ",
+                "detail": "null"
+            },
+            {
+                "start": "1800",
+                "end": "1815",
+                "artist": "lyrical school",
+                "detail": "null"
+            },
+            {
+                "start": "1820",
+                "end": "1835",
+                "artist": "ヤなことそっとミュート",
+                "detail": "null"
+            },
+            {
+                "start": "1835",
+                "end": "1850",
+                "artist": "sora tob sakana",
+                "detail": "null"
+            },
+            {
+                "start": "1850",
+                "end": "1905",
+                "artist": "amiinA",
+                "detail": "null"
+            },
+            {
+                "start": "1905",
+                "end": "1915",
+                "artist": "コラボステージ (amiinA × sora tob sakana ）",
                 "detail": "null"
             }
         ],
@@ -2801,716 +2843,686 @@
                 "start": "0945",
                 "end": "1000",
                 "artist": "ラジオ体操",
-                "detail": "null"
-            },
-            {
-                "start": "1000",
-                "end": "1020",
-                "artist": "妄想キャリブレーション",
-                "detail": "null"
+                "detail": "■ブルー■"
             },
             {
                 "start": "1020",
                 "end": "1040",
-                "artist": "ベボガ！",
+                "artist": "はちみつロケット",
                 "detail": "null"
             },
             {
                 "start": "1040",
                 "end": "1100",
-                "artist": "Luce Twinkle Wink☆",
+                "artist": "カレッジ・コスモス",
                 "detail": "null"
             },
             {
-                "start": "1110",
-                "end": "1130",
-                "artist": "つりビット",
+                "start": "1100",
+                "end": "1115",
+                "artist": "ハロプロ研修生ユニット",
+                "detail": "調整中"
+            },
+            {
+                "start": "1125",
+                "end": "1145",
+                "artist": "眉村ちあき",
                 "detail": "null"
             },
             {
-                "start": "1130",
-                "end": "1150",
-                "artist": "寺嶋由芙",
+                "start": "1145",
+                "end": "1205",
+                "artist": "天晴れ！原宿",
                 "detail": "null"
             },
             {
-                "start": "1150",
-                "end": "1210",
-                "artist": "WHY@DOLL",
+                "start": "1205",
+                "end": "1225",
+                "artist": "A応P",
                 "detail": "null"
             },
             {
-                "start": "1210",
-                "end": "1230",
-                "artist": "東京女子流",
+                "start": "1225",
+                "end": "1245",
+                "artist": "SUPER☆GiRLS",
                 "detail": "null"
             },
             {
-                "start": "1240",
-                "end": "1300",
-                "artist": "東京パフォーマンスドール",
+                "start": "1255",
+                "end": "1315",
+                "artist": "フィロソフィーのダンス",
                 "detail": "null"
             },
             {
-                "start": "1300",
-                "end": "1320",
-                "artist": "愛乙女☆DOLL",
+                "start": "1315",
+                "end": "1335",
+                "artist": "≠ME",
                 "detail": "null"
             },
             {
-                "start": "1320",
-                "end": "1340",
-                "artist": "アキシブproject",
-                "detail": "null"
-            },
-            {
-                "start": "1345",
-                "end": "1415",
+                "start": "1335",
+                "end": "1405",
                 "artist": "IDOL SUMMER JAMBOREE",
-                "detail": "※２　出演者は下記に記載"
+                "detail": "■ブルー■"
             },
             {
-                "start": "1415",
-                "end": "1435",
-                "artist": "原宿駅前パーティーズNEXT",
+                "start": "1410",
+                "end": "1430",
+                "artist": "青春高校3年C組",
                 "detail": "null"
             },
             {
-                "start": "1530",
-                "end": "1600",
-                "artist": "サマソニ×TIF",
-                "detail": "大森靖子"
-            },
-            {
-                "start": "1610",
-                "end": "1630",
-                "artist": "Maison book girl",
+                "start": "1430",
+                "end": "1450",
+                "artist": "アップアップガールズ（仮）",
                 "detail": "null"
             },
             {
-                "start": "1630",
+                "start": "1450",
+                "end": "1510",
+                "artist": "＝LOVE",
+                "detail": "null"
+            },
+            {
+                "start": "1520",
+                "end": "1610",
+                "artist": "WACK presents  DREAMLIGHTS in TIF",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1640",
                 "end": "1700",
-                "artist": "スペシャルコラボライブ",
-                "detail": "大阪☆春夏秋冬×フィロソフィーのダンス"
+                "artist": "大阪☆春夏秋冬",
+                "detail": "null"
             },
             {
-                "start": "1700",
-                "end": "1720",
-                "artist": "絶対直球女子！プレイボールズ ",
+                "start": "1705",
+                "end": "1725",
+                "artist": "あゆみくりかまき",
                 "detail": "null"
             },
             {
                 "start": "1725",
-                "end": "1755",
-                "artist": "ベイビーレイズJAPAN",
+                "end": "1745",
+                "artist": "こぶしファクトリー",
                 "detail": "null"
             },
             {
-                "start": "1755",
-                "end": "1815",
+                "start": "1745",
+                "end": "1805",
+                "artist": "吉本坂46",
+                "detail": "null"
+            },
+            {
+                "start": "1810",
+                "end": "1840",
+                "artist": "BiSH",
+                "detail": "null"
+            },
+            {
+                "start": "1840",
+                "end": "1900",
                 "artist": "Task have Fun",
                 "detail": "null"
             },
             {
-                "start": "1815",
-                "end": "1835",
-                "artist": "sora tob sakana",
+                "start": "1900",
+                "end": "1920",
+                "artist": "26時のマスカレイド",
                 "detail": "null"
             },
             {
-                "start": "1845",
-                "end": "1915",
-                "artist": "でんぱ組.inc",
-                "detail": "null"
-            },
-            {
-                "start": "1935",
+                "start": "1930",
                 "end": "2100",
-                "artist": "IDOL CLUB NIGHT",
-                "detail": "CYBERJAPAN DANCERS<br><br>and more"
+                "artist": "IDOL CLUB NIGHT2019〜アフターパーティー",
+                "detail": "■ブルー■"
             }
         ],
         "FESTIVAL STAGE": [
             {
                 "start": "1000",
                 "end": "1015",
-                "artist": "いぎなり東北産",
-                "detail": "null"
-            },
-            {
-                "start": "1015",
-                "end": "1030",
-                "artist": "TAKENOKO▲",
-                "detail": "null"
-            },
-            {
-                "start": "1030",
-                "end": "1045",
-                "artist": "Road to TIF 5位",
-                "detail": "アンダービースティー"
-            },
-            {
-                "start": "1045",
-                "end": "1100",
-                "artist": "アップアップガールズ（プロレス）",
-                "detail": "null"
-            },
-            {
-                "start": "1105",
-                "end": "1120",
-                "artist": "九州女子翼",
-                "detail": "null"
-            },
-            {
-                "start": "1120",
-                "end": "1135",
-                "artist": "ミルクス本物",
-                "detail": "null"
-            },
-            {
-                "start": "1135",
-                "end": "1150",
-                "artist": "終演後物販卍",
-                "detail": "null"
-            },
-            {
-                "start": "1150",
-                "end": "1205",
-                "artist": "さくちゃんとじぃじ",
-                "detail": "null"
-            },
-            {
-                "start": "1215",
-                "end": "1230",
-                "artist": "サンスポアイドルリポーター SIR",
-                "detail": "null"
-            },
-            {
-                "start": "1230",
-                "end": "1245",
-                "artist": "エレクトリックリボン",
-                "detail": "null"
-            },
-            {
-                "start": "1245",
-                "end": "1300",
-                "artist": "アップアップガールズ（2）",
-                "detail": "null"
-            },
-            {
-                "start": "1300",
-                "end": "1315",
-                "artist": "ザ・フーパーズ",
-                "detail": "null"
-            },
-            {
-                "start": "1320",
-                "end": "1335",
-                "artist": "原田珠々華",
-                "detail": "null"
-            },
-            {
-                "start": "1335",
-                "end": "1350",
-                "artist": "リーフシトロン",
-                "detail": "null"
-            },
-            {
-                "start": "1350",
-                "end": "1405",
-                "artist": "フィロソフィーのダンス",
-                "detail": "null"
-            },
-            {
-                "start": "1405",
-                "end": "1420",
-                "artist": "ばってん少女隊",
-                "detail": "null"
-            },
-            {
-                "start": "1430",
-                "end": "1445",
-                "artist": "PiXMiX",
-                "detail": "null"
-            },
-            {
-                "start": "1445",
-                "end": "1500",
-                "artist": "恥じらいレスキューJPN",
-                "detail": "null"
-            },
-            {
-                "start": "1500",
-                "end": "1515",
-                "artist": "パピロジェ",
-                "detail": "null"
-            },
-            {
-                "start": "1515",
-                "end": "1530",
-                "artist": "Gallop+",
-                "detail": "null"
-            },
-            {
-                "start": "1535",
-                "end": "1610",
-                "artist": "TIFxアイドル 甲子園　Day3",
-                "detail": "QUEENS<br>Devil ANTHEM."
-            },
-            {
-                "start": "1610",
-                "end": "1625",
-                "artist": "SUPER☆GiRLS",
-                "detail": "null"
-            },
-            {
-                "start": "1625",
-                "end": "1640",
-                "artist": "tipToe. ",
-                "detail": "null"
-            },
-            {
-                "start": "1650",
-                "end": "1705",
-                "artist": "ときめき♡宣伝部",
-                "detail": "null"
-            },
-            {
-                "start": "1705",
-                "end": "1720",
-                "artist": "Parfait",
-                "detail": "null"
-            },
-            {
-                "start": "1720",
-                "end": "1735",
-                "artist": "いちごみるく色に染まりたい。",
-                "detail": "null"
-            },
-            {
-                "start": "1735",
-                "end": "1750",
-                "artist": "KATA☆CHU",
-                "detail": "null"
-            },
-            {
-                "start": "1755",
-                "end": "1810",
-                "artist": "２代目HAPPY少女♪ ",
-                "detail": "null"
-            },
-            {
-                "start": "1810",
-                "end": "1825",
-                "artist": "さきどり発進局",
-                "detail": "null"
-            },
-            {
-                "start": "1825",
-                "end": "1840",
-                "artist": "ロッカジャポニカ",
-                "detail": "null"
-            }
-        ],
-        "DREAM STAGE": [
-            {
-                "start": "1110",
-                "end": "1120",
-                "artist": "Road to TIF 2位",
-                "detail": "Spindle"
-            },
-            {
-                "start": "1120",
-                "end": "1140",
-                "artist": "ばってん少女隊",
-                "detail": "null"
-            },
-            {
-                "start": "1140",
-                "end": "1200",
                 "artist": "Party Rockets GT",
                 "detail": "null"
             },
             {
-                "start": "1200",
-                "end": "1220",
-                "artist": "SUPER☆GiRLS",
-                "detail": "null"
-            },
-            {
-                "start": "1225",
-                "end": "1245",
-                "artist": "桜エビ〜ず",
-                "detail": "null"
-            },
-            {
-                "start": "1245",
-                "end": "1305",
-                "artist": "さんみゅ〜",
-                "detail": "null"
-            },
-            {
-                "start": "1305",
-                "end": "1325",
-                "artist": "ロッカジャポニカ",
-                "detail": "null"
-            },
-            {
-                "start": "1325",
-                "end": "1345",
-                "artist": "ONEPIXCEL",
-                "detail": "null"
-            },
-            {
-                "start": "1355",
-                "end": "1415",
-                "artist": "monogatari",
-                "detail": "null"
-            },
-            {
-                "start": "1415",
-                "end": "1435",
-                "artist": "predia",
-                "detail": "null"
-            },
-            {
-                "start": "1435",
-                "end": "1455",
-                "artist": "放課後プリンセス",
-                "detail": "null"
-            },
-            {
-                "start": "1455",
-                "end": "1515",
-                "artist": "HKT48",
-                "detail": "null"
-            },
-            {
-                "start": "1520",
-                "end": "1540",
-                "artist": "バニラビーンズ",
-                "detail": "null"
-            },
-            {
-                "start": "1540",
-                "end": "1600",
-                "artist": "ヤなことそっとミュート",
-                "detail": "null"
-            },
-            {
-                "start": "1600",
-                "end": "1620",
-                "artist": "妄想キャリブレーション",
-                "detail": "null"
-            },
-            {
-                "start": "1620",
-                "end": "1640",
-                "artist": "転校少女*",
-                "detail": "null"
-            },
-            {
-                "start": "1650",
-                "end": "1710",
-                "artist": "callme",
-                "detail": "null"
-            },
-            {
-                "start": "1710",
-                "end": "1730",
-                "artist": "吉川友",
-                "detail": "null"
-            },
-            {
-                "start": "1730",
-                "end": "1750",
-                "artist": "夢みるアドレセンス",
-                "detail": "null"
-            },
-            {
-                "start": "1750",
-                "end": "1810",
-                "artist": "LinQ",
-                "detail": "null"
-            },
-            {
-                "start": "1815",
-                "end": "1835",
-                "artist": "FES☆TIVE",
-                "detail": "null"
-            },
-            {
-                "start": "1835",
-                "end": "1855",
-                "artist": "アップアップガールズ（仮）",
-                "detail": "null"
-            },
-            {
-                "start": "1855",
-                "end": "1915",
-                "artist": "原宿駅前パーティーズNEXT",
-                "detail": "null"
-            }
-        ],
-        "INFO CENTRE": [
-            {
-                "start": "1000",
-                "end": "1030",
-                "artist": "TOKYO GRAVURE IDOL FESTIVAL 2018 トークの部 DAY３",
-                "detail": "null"
-            },
-            {
-                "start": "1040",
-                "end": "1100",
-                "artist": "楽天チケットスペシャルステージ",
-                "detail": "ＭＣ：クロちゃん（安田大サーカス）<br><br>転校少女*"
-            },
-            {
-                "start": "1120",
-                "end": "1150",
-                "artist": "TIF海外遠征報告会",
-                "detail": "MC：鶴見萌（虹のコンキスタドール）<br><br>=LOVE <br>Task have Fun <br>9nine <br>まねきケチャ"
-            },
-            {
-                "start": "1320",
-                "end": "1420",
-                "artist": "全国選抜ライブ優勝者トークステージ",
-                "detail": "MC：吉田尚記（ニッポン放送）<br>【前半】<br>純粋カフェ・ラッテ（森ふうか、羽生ひでこ）<br>九州女子翼（実玖、新谷香苗）<br>フルーレット（辻梨央、涼賀あかり）<br>2代目HAPPY少女♪（宮崎ゆいな、本田みく）<br>【後半】<br>まぜるなきけん（カーリー、はるにゃん）<br>Gallop+（茅埜琴子、麻丘れいな）<br>大宮I☆DOLL（今野梨奈、本城千絵）"
-            },
-            {
-                "start": "1430",
-                "end": "1520",
-                "artist": "スーパーファンタジー  TIF2018スペシャルステージ",
-                "detail": "null"
-            },
-            {
-                "start": "1530",
-                "end": "1630",
-                "artist": "【未使用】ミュ〜コミ+プラス",
-                "detail": "江嶋綾恵梨（26時のマスカレイド）<br>大場はるか（ナナランド）<br>空野青空<br>中江友梨（東京女子流）<br>水春（桜エビ〜ず）<br><br><br>MC：吉田尚記（ニッポン放送アナウンサー）"
-            },
-            {
-                "start": "1530",
-                "end": "1630",
-                "artist": "ミュ〜コミ+プラス しゃべれる女王決定戦2018",
-                "detail": "江嶋綾恵梨（26時のマスカレイド）<br>大場はるか（ナナランド）<br>空野青空<br>中江友梨（東京女子流）<br>水春（桜エビ〜ず）<br><br><br>MC：吉田尚記（ニッポン放送）<br>プレゼンター: 橘はるか（Jewel☆Rouge期間限定サポートメンバー）<br>審査員: 五戸美樹（フリーアナウンサー）"
-            },
-            {
-                "start": "1800",
-                "end": "1850",
-                "artist": "Thank you for 『TIFへの扉』トークステージ",
-                "detail": "null"
-            },
-            {
-                "start": "1900",
-                "end": "2100",
-                "artist": "スナックうめ子2018夏 〜今年もいろいろあるよねー〜",
-                "detail": "MC：河村唯<br><br>酒井瞳"
-            }
-        ],
-        "FUJI YOKO STAGE": [
-            {
-                "start": "1000",
-                "end": "1015",
-                "artist": "マジカル・パンチライン",
-                "detail": "null"
-            },
-            {
                 "start": "1015",
                 "end": "1030",
-                "artist": "エレクトリックリボン",
+                "artist": "なんキニ！",
                 "detail": "null"
             },
             {
                 "start": "1030",
                 "end": "1045",
-                "artist": "恥じらいレスキューJPN",
+                "artist": "閃光プラネタゲート",
                 "detail": "null"
             },
             {
                 "start": "1045",
                 "end": "1100",
-                "artist": "Gallop+",
+                "artist": "Fragrant Drive",
                 "detail": "null"
             },
             {
                 "start": "1105",
                 "end": "1120",
-                "artist": "ディア☆+ENGAG.ING from 秋葉原ディアステージ",
+                "artist": "chuLa",
                 "detail": "null"
             },
             {
                 "start": "1120",
                 "end": "1135",
-                "artist": "ザ・フーパーズ",
+                "artist": "フルーレット",
                 "detail": "null"
             },
             {
                 "start": "1135",
                 "end": "1150",
-                "artist": "KATA☆CHU",
+                "artist": "Jewel☆Ciel",
                 "detail": "null"
             },
             {
                 "start": "1150",
                 "end": "1205",
-                "artist": "まぜるなきけん",
+                "artist": "ミルクス本物",
                 "detail": "null"
             },
             {
                 "start": "1215",
                 "end": "1230",
-                "artist": "虹のコンキスタドール",
+                "artist": "QUEENS",
                 "detail": "null"
             },
             {
                 "start": "1230",
                 "end": "1245",
-                "artist": "Ange☆Reve",
+                "artist": "Re:Clash",
                 "detail": "null"
             },
             {
                 "start": "1245",
                 "end": "1300",
-                "artist": "callme",
+                "artist": "Lily of the valley",
                 "detail": "null"
             },
             {
                 "start": "1300",
                 "end": "1315",
-                "artist": "ネコプラ",
+                "artist": "littlemore.",
                 "detail": "null"
             },
             {
                 "start": "1320",
                 "end": "1335",
-                "artist": "A応P",
+                "artist": "ENGAG.ING",
                 "detail": "null"
             },
             {
                 "start": "1335",
                 "end": "1350",
-                "artist": "絶対直球女子！プレイボールズ ",
+                "artist": "九州女子翼",
                 "detail": "null"
             },
             {
                 "start": "1350",
                 "end": "1405",
-                "artist": "いぎなり東北産",
+                "artist": "シュークリームロケッツ",
                 "detail": "null"
             },
             {
                 "start": "1405",
                 "end": "1420",
-                "artist": "サクヤコノハナ",
+                "artist": "SKOOL GIRL BYE BYE",
                 "detail": "null"
             },
             {
                 "start": "1430",
                 "end": "1445",
-                "artist": "桜エビ〜ず",
+                "artist": "大野姉妹 with カネハマヒカリ",
                 "detail": "null"
             },
             {
                 "start": "1445",
                 "end": "1500",
-                "artist": "ベボガ！",
+                "artist": "フルーティー",
                 "detail": "null"
             },
             {
                 "start": "1500",
                 "end": "1515",
-                "artist": "TAKENOKO▲",
+                "artist": "君の隣のラジかるん",
                 "detail": "null"
             },
             {
                 "start": "1515",
                 "end": "1530",
-                "artist": "煌めき☆アンフォレント ",
+                "artist": "ピュアリーモンスター",
                 "detail": "null"
             },
             {
                 "start": "1535",
                 "end": "1550",
-                "artist": "２代目HAPPY少女♪ ",
+                "artist": "あっとせぶんてぃーん",
                 "detail": "null"
             },
             {
                 "start": "1550",
                 "end": "1605",
-                "artist": "HIGH SPIRITS",
+                "artist": "143∽",
                 "detail": "null"
             },
             {
                 "start": "1605",
                 "end": "1620",
-                "artist": "大宮I☆DOLL",
-                "detail": "null"
+                "artist": "TIF×アイドル甲子園",
+                "detail": "桃色革命<br>■ブルー■"
             },
             {
                 "start": "1620",
                 "end": "1635",
-                "artist": "ミルクス本物",
-                "detail": "null"
+                "artist": "TIF×アイドル甲子園",
+                "detail": "さとりモンスター<br>■ブルー■"
             },
             {
                 "start": "1645",
                 "end": "1700",
-                "artist": "全力少女R",
+                "artist": "わーすた",
                 "detail": "null"
             },
             {
                 "start": "1700",
                 "end": "1715",
-                "artist": "フルーレット",
+                "artist": "Someday Somewhere",
                 "detail": "null"
             },
             {
                 "start": "1715",
                 "end": "1730",
-                "artist": "寺嶋由芙",
+                "artist": "柳♡箱（RYUTistとハコイリ♡ムスメ）",
                 "detail": "null"
             },
             {
                 "start": "1730",
                 "end": "1745",
-                "artist": "九州女子翼",
+                "artist": "吉川友",
                 "detail": "null"
             },
             {
                 "start": "1750",
                 "end": "1805",
-                "artist": "アップアップガールズ（プロレス）",
+                "artist": "KATA☆CHU",
                 "detail": "null"
             },
             {
                 "start": "1805",
                 "end": "1820",
-                "artist": "純粋カフェ･ラッテ",
+                "artist": "カレッジ・コスモス",
                 "detail": "null"
             },
             {
                 "start": "1820",
                 "end": "1835",
-                "artist": "WHY@DOLL",
+                "artist": "Pimm’s",
                 "detail": "null"
             },
             {
-                "start": "1840",
-                "end": "1855",
+                "start": "1835",
+                "end": "1850",
+                "artist": "寺嶋由芙",
+                "detail": "null"
+            }
+        ],
+        "DREAM STAGE": [
+            {
+                "start": "1000",
+                "end": "1020",
+                "artist": "たけやま3.5",
+                "detail": "null"
+            },
+            {
+                "start": "1020",
+                "end": "1040",
+                "artist": "真っ白なキャンバス",
+                "detail": "null"
+            },
+            {
+                "start": "1040",
+                "end": "1100",
+                "artist": "tipToe. ",
+                "detail": "null"
+            },
+            {
+                "start": "1105",
+                "end": "1125",
+                "artist": "マリオネッ。",
+                "detail": "null"
+            },
+            {
+                "start": "1125",
+                "end": "1145",
+                "artist": "アップアップガールズ（2）",
+                "detail": "null"
+            },
+            {
+                "start": "1145",
+                "end": "1205",
+                "artist": "さんみゅ〜",
+                "detail": "null"
+            },
+            {
+                "start": "1210",
+                "end": "1230",
+                "artist": "Luce Twinkle Wink☆",
+                "detail": "null"
+            },
+            {
+                "start": "1250",
+                "end": "1305",
+                "artist": "TIF de Debut 結成ユニット",
+                "detail": "null"
+            },
+            {
+                "start": "1315",
+                "end": "1330",
+                "artist": "ラストアイドル2期生",
+                "detail": "null"
+            },
+            {
+                "start": "1330",
+                "end": "1345",
+                "artist": "Road to TIF 3位",
+                "detail": "null"
+            },
+            {
+                "start": "1345",
+                "end": "1405",
+                "artist": "愛乙女☆DOLL",
+                "detail": "null"
+            },
+            {
+                "start": "1405",
+                "end": "1425",
+                "artist": "WAgg",
+                "detail": "null"
+            },
+            {
+                "start": "1430",
+                "end": "1450",
+                "artist": "BLACKNAZARENE",
+                "detail": "null"
+            },
+            {
+                "start": "1450",
+                "end": "1510",
+                "artist": "ael -アエル-",
+                "detail": "null"
+            },
+            {
+                "start": "1510",
+                "end": "1530",
+                "artist": "夢みるアドレセンス",
+                "detail": "null"
+            },
+            {
+                "start": "1535",
+                "end": "1550",
+                "artist": "STU48",
+                "detail": "STUDIO"
+            },
+            {
+                "start": "1550",
+                "end": "1610",
+                "artist": "LinQ",
+                "detail": "null"
+            },
+            {
+                "start": "1610",
+                "end": "1630",
+                "artist": "ナナランド",
+                "detail": "null"
+            },
+            {
+                "start": "1630",
+                "end": "1650",
+                "artist": "マジカル・パンチライン",
+                "detail": "null"
+            },
+            {
+                "start": "1700",
+                "end": "1720",
+                "artist": "STARMARIE",
+                "detail": "null"
+            },
+            {
+                "start": "1720",
+                "end": "1740",
+                "artist": "MIGMA SHELTER",
+                "detail": "null"
+            },
+            {
+                "start": "1740",
+                "end": "1800",
+                "artist": "転校少女*",
+                "detail": "null"
+            },
+            {
+                "start": "1805",
+                "end": "1825",
+                "artist": "純情のアフィリア",
+                "detail": "null"
+            },
+            {
+                "start": "1825",
+                "end": "1845",
+                "artist": "アキシブproject",
+                "detail": "null"
+            },
+            {
+                "start": "1845",
+                "end": "1905",
+                "artist": "東京女子流",
+                "detail": "null"
+            }
+        ],
+        "INFO CENTRE": [
+            {
+                "start": "1500",
+                "end": "1530",
+                "artist": "ニッポン放送 佐久間宣行ANN0 トークステージ",
+                "detail": "null"
+            },
+            {
+                "start": "1900",
+                "end": "2100",
+                "artist": "スナックうめ子2019夏",
+                "detail": "null"
+            }
+        ],
+        "FUJI YOKO STAGE": [
+            {
+                "start": "1030",
+                "end": "1045",
+                "artist": "マジカル・パンチライン",
+                "detail": "null"
+            },
+            {
+                "start": "1045",
+                "end": "1100",
+                "artist": "あっとせぶんてぃーん",
+                "detail": "null"
+            },
+            {
+                "start": "1100",
+                "end": "1115",
+                "artist": "校庭カメラアクトレス",
+                "detail": "null"
+            },
+            {
+                "start": "1115",
+                "end": "1130",
+                "artist": "きゃわふるTORNADO",
+                "detail": "null"
+            },
+            {
+                "start": "1135",
+                "end": "1150",
+                "artist": "CYNHN",
+                "detail": "null"
+            },
+            {
+                "start": "1150",
+                "end": "1205",
+                "artist": "われらがプワプワプーワプワ ",
+                "detail": "null"
+            },
+            {
+                "start": "1205",
+                "end": "1220",
+                "artist": "feelNEO",
+                "detail": "null"
+            },
+            {
+                "start": "1220",
+                "end": "1235",
+                "artist": "dela",
+                "detail": "null"
+            },
+            {
+                "start": "1240",
+                "end": "1255",
+                "artist": "ROSARIO+CROSS",
+                "detail": "null"
+            },
+            {
+                "start": "1255",
+                "end": "1310",
+                "artist": "なんキニ！",
+                "detail": "null"
+            },
+            {
+                "start": "1310",
+                "end": "1325",
                 "artist": "Party Rockets GT",
                 "detail": "null"
             },
             {
-                "start": "1855",
-                "end": "1910",
-                "artist": "CROWN POP",
+                "start": "1325",
+                "end": "1340",
+                "artist": "撲我さくら",
                 "detail": "null"
             },
             {
-                "start": "1910",
-                "end": "1925",
-                "artist": "転校少女*",
+                "start": "1350",
+                "end": "1405",
+                "artist": "閃光プラネタゲート",
+                "detail": "null"
+            },
+            {
+                "start": "1405",
+                "end": "1420",
+                "artist": "WT☆Egret",
+                "detail": "null"
+            },
+            {
+                "start": "1420",
+                "end": "1435",
+                "artist": "OBP",
+                "detail": "null"
+            },
+            {
+                "start": "1435",
+                "end": "1450",
+                "artist": "Re:Clash",
+                "detail": "null"
+            },
+            {
+                "start": "1455",
+                "end": "1510",
+                "artist": "littlemore.",
+                "detail": "null"
+            },
+            {
+                "start": "1510",
+                "end": "1525",
+                "artist": "開歌-かいか- ",
+                "detail": "null"
+            },
+            {
+                "start": "1525",
+                "end": "1540",
+                "artist": "まなみのりさ",
+                "detail": "null"
+            },
+            {
+                "start": "1540",
+                "end": "1555",
+                "artist": "フルーレット",
+                "detail": "null"
+            },
+            {
+                "start": "1600",
+                "end": "1615",
+                "artist": "REBIRTH",
+                "detail": "null"
+            },
+            {
+                "start": "1615",
+                "end": "1630",
+                "artist": "PiXMiX",
+                "detail": "null"
+            },
+            {
+                "start": "1630",
+                "end": "1645",
+                "artist": "アップアップガールズ（2）",
+                "detail": "null"
+            },
+            {
+                "start": "1645",
+                "end": "1700",
+                "artist": "フルーティー",
+                "detail": "null"
+            },
+            {
+                "start": "1705",
+                "end": "1720",
+                "artist": "TIF de Debut 結成ユニット",
+                "detail": "null"
+            },
+            {
+                "start": "1725",
+                "end": "1740",
+                "artist": "パンダみっく",
+                "detail": "null"
+            },
+            {
+                "start": "1740",
+                "end": "1755",
+                "artist": "SKOOL GIRL BYE BYE",
+                "detail": "null"
+            },
+            {
+                "start": "1755",
+                "end": "1810",
+                "artist": "Q-pitch",
+                "detail": "null"
+            },
+            {
+                "start": "1815",
+                "end": "1830",
+                "artist": "READY TO KISS",
+                "detail": "null"
+            },
+            {
+                "start": "1830",
+                "end": "1845",
+                "artist": "Devil ANTHEM.",
+                "detail": "null"
+            },
+            {
+                "start": "1845",
+                "end": "1900",
+                "artist": "虹のコンキスタドール",
                 "detail": "null"
             }
         ]

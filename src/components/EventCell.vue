@@ -11,7 +11,7 @@
 
 <script>
 import Storage from '@/js/mystorage.js'
-const storage = new Storage(localStorage, 'tif2018');
+const storage = new Storage(localStorage, 'tif2019');
 
 export default {
   name: 'EventCell',
