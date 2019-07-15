@@ -5,7 +5,7 @@
   :class="{checked: checkedStatus}"
   :style="{left: width * 0.05 + 'px', width: width * 0.9 + 'px', top: (((start - startHour * 60) / 60) * (heightHour + 2)) + 'px', height: (((end - start) / 60) * (heightHour + 2))  + 'px' }"
   >
-  <div :style="{transformOrigin: 'left top', transform: 'scale(' + width / 70.0 + ')', width: '63px'}">{{toHhmm(start)}}-{{toHhmm(end)}}<br/>{{artist}}</div>
+  <div :style="{transformOrigin: 'left top', transform: 'scale(' + width / 80.0 + ')', width: '63px'}">{{toHhmm(start)}}-{{toHhmm(end)}}<br/>{{artist}}<br/><br/><span style="font-size: 0.75em;" v-html="detailHtml" ></span></div>
 </div>
 </template>
 
@@ -51,6 +51,14 @@ export default {
   computed: {
     eid() {
       return [this.name, this.start, this.end, this.artist].join("-");
+    },
+    detailHtml() {
+      if (this.detail == "null") {
+        return "";
+      }
+      const replaced = this.detail.replace(/■.*?■/g, '');
+
+      return replaced;
     }
   },
   methods: {
