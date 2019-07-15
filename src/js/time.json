@@ -223,7 +223,7 @@
                 "start": "1530",
                 "end": "1700",
                 "artist": "TIF2019メインステージ争奪LIVE 決勝戦",
-                "detail": "chuLa／真っ白なキャンバス／マリオネッ。／メイビーME<br>■ブルー■"
+                "detail": "MC：はなしょー<br>chuLa／真っ白なキャンバス／マリオネッ。／メイビーME<br>■ブルー■"
             },
             {
                 "start": "1830",
@@ -448,7 +448,7 @@
             {
                 "start": "1005",
                 "end": "1045",
-                "artist": "「1日限りの同窓会ING!!!」 アイドリング!!!",
+                "artist": "アイドリング!!!",
                 "detail": "■ピンク■"
             },
             {
@@ -544,14 +544,14 @@
             {
                 "start": "1650",
                 "end": "1720",
-                "artist": "Hello! Project Special Stage Berryz工房大好きスッペシャル！ ～夏焼雅（PINK CRES.）＆ BEYOOOOONDS ＆ TIF選抜スペシャルコラボ～",
+                "artist": "Hello! Project Special Stage Berryz工房大好きスッペシャル！ ～夏焼雅（PINK CRES.）＆ BEYOOOOONDS ＆ TIF選抜スッペシャルコラボ～",
                 "detail": "■ブルー■"
             },
             {
                 "start": "1730",
                 "end": "1750",
-                "artist": "スペシャルコラボステージTask have Fun×わーすた",
-                "detail": "■ブルー■"
+                "artist": "スペシャルコラボステージ",
+                "detail": "Task have Fun×わーすた<br>■ブルー■"
             },
             {
                 "start": "1750",
@@ -582,12 +582,6 @@
                 "end": "1950",
                 "artist": "調整中",
                 "detail": "null"
-            },
-            {
-                "start": "1920",
-                "end": "1950",
-                "artist": "乃木坂46 4期生",
-                "detail": "調整中"
             }
         ],
         "FESTIVAL STAGE": [
@@ -1726,7 +1720,7 @@
             {
                 "start": "1315",
                 "end": "1340",
-                "artist": " スペシャルコラボステージ",
+                "artist": "スペシャルコラボステージ / 東京♡宣伝部",
                 "detail": "東京女子流×ときめき♡宣伝部<br>■ブルー■"
             },
             {
@@ -2019,7 +2013,7 @@
                 "start": "1110",
                 "end": "1150",
                 "artist": "スターダストプラネット スペシャルステージ",
-                "detail": "はちみつロケット／アメフラっシ／and more<br>■ブルー■"
+                "detail": "はちみつロケット／アメフラっシ／B.O.L.T<br>■ブルー■"
             },
             {
                 "start": "1200",
@@ -2861,7 +2855,7 @@
                 "start": "1100",
                 "end": "1115",
                 "artist": "ハロプロ研修生ユニット",
-                "detail": "調整中"
+                "detail": "null"
             },
             {
                 "start": "1125",
