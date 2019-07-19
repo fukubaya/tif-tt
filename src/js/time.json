@@ -163,7 +163,7 @@
                 "start": "1215",
                 "end": "1230",
                 "artist": "Road to TIF 1位",
-                "detail": "null"
+                "detail": "狂い咲けセンターロード"
             },
             {
                 "start": "1230",
@@ -514,7 +514,7 @@
             {
                 "start": "1425",
                 "end": "1455",
-                "artist": "IDOL SUMMER JAMBOREE",
+                "artist": "2019 IDOL SUMMER JAMBOREE Day1",
                 "detail": "■ブルー■"
             },
             {
@@ -580,7 +580,7 @@
             {
                 "start": "1920",
                 "end": "1950",
-                "artist": "調整中",
+                "artist": "乃木坂46 4期生",
                 "detail": "null"
             }
         ],
@@ -715,7 +715,7 @@
                 "start": "1605",
                 "end": "1615",
                 "artist": "Road to TIF 2位",
-                "detail": "null"
+                "detail": "黒猫は星と踊る"
             },
             {
                 "start": "1615",
@@ -1192,8 +1192,8 @@
             {
                 "start": "1405",
                 "end": "1505",
-                "artist": "ラストアイドルファミリー",
-                "detail": "null"
+                "artist": "ラストアイドル",
+                "detail": "ラストアイドルファミリー"
             },
             {
                 "start": "1520",
@@ -1229,7 +1229,7 @@
                 "start": "1820",
                 "end": "1835",
                 "artist": "Road to TIF 1位",
-                "detail": "null"
+                "detail": "狂い咲けセンターロード"
             },
             {
                 "start": "1840",
@@ -1369,7 +1369,7 @@
                 "start": "1505",
                 "end": "1520",
                 "artist": "Road to TIF 4位",
-                "detail": "null"
+                "detail": "ONE+ONE+ONE"
             },
             {
                 "start": "1520",
@@ -1544,7 +1544,7 @@
             {
                 "start": "1455",
                 "end": "1510",
-                "artist": "マリオネッ。",
+                "artist": "monogatari",
                 "detail": "null"
             },
             {
@@ -1574,7 +1574,7 @@
             {
                 "start": "1620",
                 "end": "1635",
-                "artist": "monogatari",
+                "artist": "マリオネッ。",
                 "detail": "null"
             },
             {
@@ -1762,7 +1762,7 @@
             {
                 "start": "1600",
                 "end": "1630",
-                "artist": "IDOL SUMMER JAMBOREE",
+                "artist": "2019 IDOL SUMMER JAMBOREE Day2",
                 "detail": "■ブルー■"
             },
             {
@@ -1843,7 +1843,7 @@
                 "start": "1135",
                 "end": "1150",
                 "artist": "Road to TIF 5位",
-                "detail": "null"
+                "detail": "はぴか"
             },
             {
                 "start": "1150",
@@ -2012,7 +2012,7 @@
             {
                 "start": "1110",
                 "end": "1150",
-                "artist": "スターダストプラネット スペシャルステージ",
+                "artist": "B.O.L.T",
                 "detail": "はちみつロケット／アメフラっシ／B.O.L.T<br>■ブルー■"
             },
             {
@@ -2353,7 +2353,7 @@
                 "start": "1755",
                 "end": "1810",
                 "artist": "Road to TIF 6位",
-                "detail": "null"
+                "detail": "イケてるハーツ"
             },
             {
                 "start": "1815",
@@ -2599,7 +2599,7 @@
                 "start": "1655",
                 "end": "1705",
                 "artist": "Road to TIF 2位",
-                "detail": "null"
+                "detail": "黒猫は星と踊る"
             },
             {
                 "start": "1705",
@@ -2840,6 +2840,12 @@
                 "detail": "■ブルー■"
             },
             {
+                "start": "1000",
+                "end": "1020",
+                "artist": "ナナランド",
+                "detail": "null"
+            },
+            {
                 "start": "1020",
                 "end": "1040",
                 "artist": "はちみつロケット",
@@ -2896,7 +2902,7 @@
             {
                 "start": "1335",
                 "end": "1405",
-                "artist": "IDOL SUMMER JAMBOREE",
+                "artist": "2019 IDOL SUMMER JAMBOREE Day3",
                 "detail": "■ブルー■"
             },
             {
@@ -2921,6 +2927,12 @@
                 "start": "1520",
                 "end": "1610",
                 "artist": "WACK presents  DREAMLIGHTS in TIF",
+                "detail": "■ブルー■"
+            },
+            {
+                "start": "1615",
+                "end": "1640",
+                "artist": "スペシャルコラボステージ　フィロソフィーのダンス×predia",
                 "detail": "■ブルー■"
             },
             {
@@ -3212,8 +3224,8 @@
             {
                 "start": "1250",
                 "end": "1305",
-                "artist": "TIF de Debut 結成ユニット",
-                "detail": "null"
+                "artist": "Sweet Alley",
+                "detail": "TIF de Debut 結成ユニット"
             },
             {
                 "start": "1315",
@@ -3225,7 +3237,7 @@
                 "start": "1330",
                 "end": "1345",
                 "artist": "Road to TIF 3位",
-                "detail": "null"
+                "detail": "エラバレシ"
             },
             {
                 "start": "1345",
@@ -3480,8 +3492,8 @@
             {
                 "start": "1705",
                 "end": "1720",
-                "artist": "TIF de Debut 結成ユニット",
-                "detail": "null"
+                "artist": "Sweet Alley",
+                "detail": "TIF de Debut 結成ユニット"
             },
             {
                 "start": "1725",
