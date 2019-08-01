@@ -74,12 +74,6 @@
                 "detail": "null"
             },
             {
-                "start": "1720",
-                "end": "1750",
-                "artist": "大阪☆春夏秋冬",
-                "detail": "■撮影■"
-            },
-            {
                 "start": "1800",
                 "end": "1830",
                 "artist": "AKB48 Team 8",
@@ -88,8 +82,8 @@
             {
                 "start": "1835",
                 "end": "1905",
-                "artist": "i☆Ris",
-                "detail": "null"
+                "artist": "大阪☆春夏秋冬",
+                "detail": "■撮影■"
             },
             {
                 "start": "1910",
@@ -173,8 +167,8 @@
             },
             {
                 "start": "1245",
-                "end": "1300",
-                "artist": "全力少女R",
+                "end": "1305",
+                "artist": "わーすた",
                 "detail": "■撮影■"
             },
             {
@@ -224,6 +218,12 @@
                 "end": "1700",
                 "artist": "TIF2019メインステージ争奪LIVE 決勝戦",
                 "detail": "MC：はなしょー<br>chuLa／真っ白なキャンバス／マリオネッ。／メイビーME<br>■ブルー■"
+            },
+            {
+                "start": "1720",
+                "end": "1740",
+                "artist": "スペシャルコラボステージ",
+                "detail": "Task have Fun×わーすた<br>■ブルー■"
             },
             {
                 "start": "1830",
@@ -437,7 +437,7 @@
                 "start": "0930",
                 "end": "0945",
                 "artist": "TIF10周年記念オープニングステージ",
-                "detail": "■ピンク■"
+                "detail": "※２０<br>■ピンク■"
             },
             {
                 "start": "0945",
@@ -483,8 +483,8 @@
             },
             {
                 "start": "1245",
-                "end": "1305",
-                "artist": "わーすた",
+                "end": "1300",
+                "artist": "全力少女R",
                 "detail": "■撮影■"
             },
             {
@@ -503,7 +503,7 @@
                 "start": "1345",
                 "end": "1405",
                 "artist": "TIF2019 x DDT路上プロレス",
-                "detail": "■ブルー■"
+                "detail": "※１９<br>■ブルー■"
             },
             {
                 "start": "1405",
@@ -548,12 +548,6 @@
                 "detail": "※８<br>■ブルー■"
             },
             {
-                "start": "1730",
-                "end": "1750",
-                "artist": "スペシャルコラボステージ",
-                "detail": "Task have Fun×わーすた<br>■ブルー■"
-            },
-            {
                 "start": "1750",
                 "end": "1810",
                 "artist": "uijin",
@@ -596,12 +590,6 @@
                 "end": "1030",
                 "artist": "絶対直球女子！プレイボールズ ",
                 "detail": "■撮影■"
-            },
-            {
-                "start": "1030",
-                "end": "1045",
-                "artist": "二丁目の魁カミングアウト",
-                "detail": "null"
             },
             {
                 "start": "1045",
@@ -828,12 +816,6 @@
                 "detail": "null"
             },
             {
-                "start": "1420",
-                "end": "1440",
-                "artist": "芹澤 優",
-                "detail": "null"
-            },
-            {
                 "start": "1440",
                 "end": "1500",
                 "artist": "ふわふわ",
@@ -906,12 +888,6 @@
                 "detail": "null"
             },
             {
-                "start": "1850",
-                "end": "1910",
-                "artist": "二丁目の魁カミングアウト",
-                "detail": "null"
-            },
-            {
                 "start": "1910",
                 "end": "1930",
                 "artist": "寺嶋由芙",
@@ -941,7 +917,7 @@
                 "start": "1100",
                 "end": "1130",
                 "artist": "TOKYO GRAVURE IDOL FESTIVAL 2019 トークの部 DAY1",
-                "detail": "null"
+                "detail": "※２３"
             },
             {
                 "start": "1140",
@@ -965,13 +941,13 @@
                 "start": "1550",
                 "end": "1620",
                 "artist": "ミュージックパーク エンタメシンポジウム",
-                "detail": "null"
+                "detail": "※２７　"
             },
             {
                 "start": "1630",
                 "end": "1730",
-                "artist": "第4回ミュ～コミプラス しゃべれる女王決定戦2019",
-                "detail": "MC：吉田尚記（ニッポン放送アナウンサー）"
+                "artist": "第5回ミューコミプラス しゃべれる女王決定戦2019",
+                "detail": "MC：吉田尚記（ニッポン放送アナウンサー）<br><br>※１８"
             },
             {
                 "start": "1745",
@@ -1611,7 +1587,7 @@
                 "start": "1650",
                 "end": "1705",
                 "artist": "フルーティー",
-                "detail": "null"
+                "detail": "■撮影■"
             },
             {
                 "start": "1705",
@@ -1688,10 +1664,16 @@
         ],
         "SMILE GARDEN": [
             {
+                "start": "0910",
+                "end": "0930",
+                "artist": "NGT48",
+                "detail": "null"
+            },
+            {
                 "start": "0945",
                 "end": "1000",
                 "artist": "ラジオ体操",
-                "detail": "■ブルー■"
+                "detail": "※２１<br>■ブルー■"
             },
             {
                 "start": "1000",
@@ -1981,7 +1963,7 @@
                 "start": "1710",
                 "end": "1725",
                 "artist": "WT☆Egret",
-                "detail": "null"
+                "detail": "■撮影■"
             },
             {
                 "start": "1725",
@@ -2201,7 +2183,7 @@
                 "start": "1510",
                 "end": "1540",
                 "artist": "TOKYO GRAVURE IDOL FESTIVAL 2019 トークの部 DAY2",
-                "detail": "null"
+                "detail": "※２４"
             },
             {
                 "start": "1545",
@@ -2464,8 +2446,8 @@
             {
                 "start": "1340",
                 "end": "1410",
-                "artist": "わーすた",
-                "detail": "■撮影■"
+                "artist": "NEO from アイドリング!!!",
+                "detail": "null"
             },
             {
                 "start": "1420",
@@ -2489,7 +2471,7 @@
                 "start": "1600",
                 "end": "1700",
                 "artist": "公開収録「この指と～まれ！season3 in TIF2019」",
-                "detail": "Task have Fun<br>≠ME<br>ラストアイドル（★）<br>■ブルー■"
+                "detail": "Task have Fun<br>≠ME<br>ラストアイドル（★1）<br>特別コラボ企画ユニット（★2）<br>■ブルー■"
             },
             {
                 "start": "1710",
@@ -2557,7 +2539,7 @@
                 "start": "1120",
                 "end": "1135",
                 "artist": "ヤなことそっとミュート",
-                "detail": "null"
+                "detail": "■撮影■"
             },
             {
                 "start": "1135",
@@ -2586,8 +2568,8 @@
             {
                 "start": "1335",
                 "end": "1405",
-                "artist": "NEO from アイドリング!!!",
-                "detail": "null"
+                "artist": "わーすた",
+                "detail": "■撮影■"
             },
             {
                 "start": "1415",
@@ -2715,7 +2697,7 @@
                 "start": "1150",
                 "end": "1205",
                 "artist": "WT☆Egret",
-                "detail": "null"
+                "detail": "■撮影■"
             },
             {
                 "start": "1205",
@@ -2841,7 +2823,7 @@
                 "start": "1820",
                 "end": "1835",
                 "artist": "ヤなことそっとミュート",
-                "detail": "null"
+                "detail": "■撮影■"
             },
             {
                 "start": "1835",
@@ -2867,7 +2849,7 @@
                 "start": "0945",
                 "end": "1000",
                 "artist": "ラジオ体操",
-                "detail": "■ブルー■"
+                "detail": "※２２<br>■ブルー■"
             },
             {
                 "start": "1000",
@@ -3017,7 +2999,7 @@
                 "start": "1930",
                 "end": "2100",
                 "artist": "IDOL CLUB NIGHT2019〜アフターパーティー",
-                "detail": "■ブルー■"
+                "detail": "※２６<br>■ブルー■"
             }
         ],
         "FESTIVAL STAGE": [
@@ -3127,7 +3109,7 @@
                 "start": "1445",
                 "end": "1500",
                 "artist": "フルーティー",
-                "detail": "null"
+                "detail": "■撮影■"
             },
             {
                 "start": "1500",
@@ -3164,12 +3146,6 @@
                 "end": "1635",
                 "artist": "TIF×アイドル甲子園",
                 "detail": "さとりモンスター<br>■ブルー撮影■"
-            },
-            {
-                "start": "1645",
-                "end": "1700",
-                "artist": "わーすた",
-                "detail": "■撮影■"
             },
             {
                 "start": "1700",
@@ -3377,7 +3353,7 @@
                 "start": "1100",
                 "end": "1130",
                 "artist": "TOKYO GRAVURE IDOL FESTIVAL 2019 トークの部 DAY3",
-                "detail": "null"
+                "detail": "※２５"
             },
             {
                 "start": "1140",
@@ -3389,13 +3365,13 @@
                 "start": "1300",
                 "end": "1350",
                 "artist": "アイドルクイズ王決定戦201９",
-                "detail": "MC：吉田尚記（ニッポン放送アナウンサー）<br><br>作問・正誤判定：古川洋平(クイズ法人カプリティオ)"
+                "detail": "MC：吉田尚記（ニッポン放送アナウンサー）<br><br>作問・正誤判定：古川洋平(クイズ法人カプリティオ)<br><br>※１７　出場者は枠外"
             },
             {
                 "start": "1410",
                 "end": "1440",
                 "artist": "TIF de Debut トークステージ",
-                "detail": "Sweet Alley "
+                "detail": "MC：クロちゃん、西野未姫<br>Sweet Alley"
             },
             {
                 "start": "1500",
@@ -3505,7 +3481,7 @@
                 "start": "1405",
                 "end": "1420",
                 "artist": "WT☆Egret",
-                "detail": "null"
+                "detail": "■撮影■"
             },
             {
                 "start": "1420",
@@ -3565,7 +3541,7 @@
                 "start": "1645",
                 "end": "1700",
                 "artist": "フルーティー",
-                "detail": "null"
+                "detail": "■撮影■"
             },
             {
                 "start": "1705",
